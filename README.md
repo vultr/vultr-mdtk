@@ -8,11 +8,11 @@ The Vultr Markdown Toolkit is a productive Markdown writing environment with a d
 
 ## How to Install with Visual Studio Code
 
-See [install-vscode.md](https://github.com/vultr/vultr-mdtk/blob/master/install-vscode.md) for code-server installation instructions.
+See [install-vscode.md](https://github.com/vultr/vultr-mdtk/blob/master/install-vscode.md) for installation instructions.
 
 ## How to Install with code-server
 
-See [install-code-server.md](https://github.com/vultr/vultr-mdtk/blob/master/install-code-server.md) for code-server installation instructions.
+See [install-code-server.md](https://github.com/vultr/vultr-mdtk/blob/master/install-code-server.md) for installation instructions.
 
 ## Key Project Files
 

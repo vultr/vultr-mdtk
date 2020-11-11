@@ -5,7 +5,19 @@
 		}
 	],
 	"settings": {
-		"vscode-vale.path": "/home/linuxbrew/.linuxbrew/bin/vale",
-		"vscode-vale.configPath": "/home/mdtk/vultr-mdtk/.vale.ini"
+        "markdown.extension.italic.indicator": "_",
+        "markdown.extension.orderedList.marker": "one",
+        "markdown.extension.toc.unorderedList.marker": "*",
+        "vscode-vale.path": "/home/linuxbrew/.linuxbrew/bin/vale",
+        "vscode-vale.configPath": "/home/mdtk/vultr-mdtk/.vale.ini",
+        "markdownlint.config": {
+            "MD013": false,
+            "MD014": false,  
+            "MD041": false,
+            "MD026": false
+        },
+        "markdownlint.run": "onSave",
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 3000	
 	}
 }
