@@ -8,8 +8,8 @@
         "markdown.extension.italic.indicator": "_",
         "markdown.extension.orderedList.marker": "one",
         "markdown.extension.toc.unorderedList.marker": "*",
-		"vscode-vale.path": "/home/linuxbrew/.linuxbrew/bin/vale",
-		"vscode-vale.configPath": "/home/mdtk/vultr-mdtk/.vale.ini",
+        "vscode-vale.path": "/home/linuxbrew/.linuxbrew/bin/vale",
+        "vscode-vale.configPath": "/home/mdtk/vultr-mdtk/.vale.ini",
         "markdownlint.config": {
             "MD013": false,
             "MD014": false,  
