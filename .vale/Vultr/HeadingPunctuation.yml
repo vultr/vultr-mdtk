@@ -1,0 +1,18 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Google and 
+# used according to terms described in the Creative Commons 4.0 Attribution License.
+# https://developers.google.com/terms/site-policies
+extends: existence
+message: "Don't put a period at the end of a heading. Numbered steps should have a single space after the period, followed by the heading text. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://developers.google.com/style/capitalization#capitalization-in-titles-and-headings
+level: warning
+nonword: true
+scope: heading
+action:
+  name: edit
+  params:
+    - remove
+    - '.'
+tokens:
+  - '[a-z0-9][.](?:\s\s|$)'

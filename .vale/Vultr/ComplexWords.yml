@@ -1,0 +1,269 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: substitution
+message: "Consider using '%s' instead of '%s'. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences
+level: warning
+ignorecase: true
+action:
+  name: replace
+swap:
+  a (?:large)? majority of: most
+  a (?:large)? number of: many
+  a myriad of: myriad
+  a number of: many
+  abundance: plenty
+  accede to: agree to
+  accelerate: speed up
+  accentuate: stress
+  accompany: go with
+  accomplish: carry out|do
+  accorded: given
+  accordingly: so
+  accrue: add
+  accurate: right|exact
+  acquiesce: agree
+  acquire: get|buy
+  additional: more|extra
+  addressees: you
+  adjacent to: next to
+  adjustment: change
+  admissible: allowed
+  advantageous: helpful
+  adversely impact: hurt
+  advise: tell
+  aforementioned: earlier|before
+  aggregate: total
+  aircraft: plane
+  all across: across
+  all of a sudden: suddenly
+  all of these: these
+  all of: all
+  all-time record: record
+  alleviate: ease
+  allocate: assign|divide
+  almost all: most
+  almost never: seldom
+  along the lines of: similar to
+  already existing: existing
+  alternatively: or
+  alternatives: choices|options
+  amazing: surprising
+  ameliorate: improve
+  amend: change
+  an additional: another
+  an adequate number of: enough
+  an appreciable number of: many
+  an estimated: about
+  anticipate: expect
+  any and all: all
+  apparent: clear|plain
+  approximate(?:ly)?: about
+  are in agreement: agree
+  as a matter of fact: in fact
+  as a means of: to
+  as a result of: because of
+  as of yet: yet
+  as per: per
+  ascertain: discover|find out
+  assistance: help
+  at a later date: later
+  at all times: always
+  at the present time: now
+  at this point in time: at this point
+  at this time: now
+  attain: meet
+  attempt: try
+  authorize: allow
+  based in large part on: based on
+  based on the fact that: because
+  basic necessity: necessity
+  because of the fact that: because
+  belated: late
+  benefit: help
+  bestow: give
+  by virtue of: because
+  by virtue of the fact that: because
+  came to a realization: realized
+  came to an abrupt end: ended abruptly
+  carry out an evaluation of: evaluate
+  cease: stop|end
+  close down: close
+  close proximity: close
+  closed down: closed
+  collaborate: work together
+  commence: begin
+  compensate: pay
+  complete stranger: stranger
+  completely separate: separate
+  comply with: obey
+  component: part
+  comprise: form|include
+  concept: idea
+  concerning the matter of: regarding
+  concerning: about
+  conduct a review of: review
+  conduct an investigation: investigate
+  conduct experiments: experiment
+  confer: give|award
+  consequently: so
+  consolidate: merge
+  constitutes: forms
+  contains: has
+  continue on: continue
+  convene: meet
+  demonstrate: show|prove
+  depart: leave
+  designate: choose
+  desire: want|wish
+  despite the fact that: although
+  determine: decide|find
+  detrimental: bad|harmful
+  disappear from sight: disappear
+  disclose: share|tell
+  discontinue: stop
+  disseminate: send|give
+  doomed to fail: doomed
+  drag and drop: drag
+  drag-and-drop: drag
+  due to the fact that: because
+  during the period of: during
+  during the time that: while
+  each and every: all
+  economical: inexpensive
+  eliminate: end
+  elucidate: explain
+  emergency situation: emergency
+  employ: use
+  enclosed: inside|included
+  encounter: meet
+  endeavor: try
+  enumerate: count
+  equitable: fair
+  equivalent: equal
+  evidenced: showed|verified
+  except when: unless
+  excessive number: too many
+  exclusively: only
+  expedite: hurry
+  expend: use
+  expiration: end|stop
+  extend an invitation: invite
+  facilitate: ease
+  factual evidence: evidence
+  fall down: fall
+  feasible: practical
+  fell down: fell
+  females: women
+  finalize: complete|finish
+  for the duration of: during
+  forfeit: resign|give up
+  formulate: make|create
+  frequently: often
+  gather together: gather
+  (?:give|gave) rise to: lead to
+  has the ability to: can
+  has the capacity to: can
+  has the opportunity to: could
+  hold a meeting: meet
+  honest truth: truth
+  however: though
+  identical: same
+  if and when: when
+  if this is not the case: if not
+  in a careful manner: carefully
+  in a thoughtful manner: thoughtfully
+  in a timely manner: timely
+  in an effort to: to
+  in between: between
+  in lieu of: instead of
+  in many cases: often
+  in most cases: usually
+  in order to: to
+  in some cases: sometimes
+  in some instances: sometimes
+  in spite of the fact that: although
+  in spite of: despite
+  in the (?:very)? near future: soon
+  in the event that: if
+  in the near future: soon
+  in the neighborhood of: roughly
+  in the vicinity of: close to
+  incorrect: wrong
+  indication: sign
+  initiate: start|begin
+  irregardless: anyway
+  it would appear that: apparently
+  itemized: listed
+  jeopardize: risk
+  liaise: work with|partner with
+  lift up: lift
+  made reference to: referred to
+  magnitude: value
+  maintain: keep|support
+  make reference to: refer to
+  methodology: method
+  minimize: reduce
+  mix together: mix
+  modify: change
+  monitor: check|watch
+  necessitate: cause
+  nevertheless: however|still
+  none at all: none
+  not in a position to: unable
+  not possible: impossible
+  notify: tell
+  numerous: many
+  objective: aim|goal
+  obligate: bind|compel
+  of major importance: important
+  optimum: best|most
+  perform an assessment of: assess
+  permit: let
+  pertaining to: about
+  place an order: order
+  plays a key role in: is essential to
+  portion: part
+  possess: own
+  present time: now
+  previous: earlier
+  (?:previous|prior) to: before
+  previously: before
+  prior to: before
+  prioritize: rank
+  procure: buy
+  provide: give|offer
+  purchase: buy
+  readily apparent: apparent
+  relocate: move
+  solicit: request
+  some of the: some
+  span across: span
+  state-of-the-art: latest
+  subsequent to: after
+  subsequent: later|next
+  substantial: large
+  successfully complete: complete
+  sufficient number (?:of)?: enough
+  sufficient: enough
+  take action: act
+  take into account: consider
+  terminate: end
+  the question as to whether: whether
+  there is no doubt but that: doubtless
+  this day and age: this age
+  this is a subject that: this subject
+  time (?:frame|period): time
+  transmit: send
+  under the provisions of: under
+  until such time as: until
+  used for fuel purposes: used for fuel
+  utilization: use
+  utilize: use
+  whether or not: whether
+  with regard to: regarding
+  with the exception of: except for
+  witnessed: saw

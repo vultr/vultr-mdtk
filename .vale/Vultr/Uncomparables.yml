@@ -1,0 +1,56 @@
+---
+# Portions of this toolkit are modifications based on the proselint text linter and 
+# used according to terms described in the BSD 3-Clause License.
+# https://github.com/errata-ai/proselint/blob/master/LICENSE
+extends: existence
+message: "'%s' is not comparable. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://example.com
+level: error
+ignorecase: true
+action:
+  name: edit
+  params:
+   - split
+   - ' '
+   - '1'
+raw:
+  - \b(?:absolutely|most|more|less|least|very|quite|largely|extremely|increasingly|kind of|mildy|hardly|greatly|sort of)\b\s*
+tokens:
+  - absolute
+  - adequate
+  - complete
+  - correct
+  - certain
+  - devoid
+  - entire
+  - 'false'
+  - fatal
+  - favorite
+  - final
+  - ideal
+  - impossible
+  - inevitable
+  - infinite
+  - irrevocable
+  - main
+  - manifest
+  - only
+  - paramount
+  - perfect
+  - perpetual
+  - possible
+  - preferable
+  - principal
+  - singular
+  - stationary
+  - sufficient
+  - 'true'
+  - unanimous
+  - unavoidable
+  - unbroken
+  - uniform
+  - unique
+  - universal
+  - void
+  - whole

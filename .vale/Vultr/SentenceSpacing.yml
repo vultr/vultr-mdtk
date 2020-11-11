@@ -1,0 +1,28 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by GitLab and 
+# used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+# https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
+# ---
+# Error: gitlab.SentenceSpacing
+#
+# Checks for the following in common content scenarios:
+#
+# - No spaces.
+# - More than one space.
+#
+# For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
+extends: existence
+message: "'%s' must contain one and only one space. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#punctuation
+level: error
+nonword: true
+tokens:
+  - '[a-z][.?!,][A-Z]'
+  - '[\w.?!,\(\)\-":] {2,}[\w.?!,\(\)\-":]'
+##
+##  - '[.?!] {2,}[A-Z]'
+##  - '[.?!][A-Z]'
+##
+##  - '[a-z][.?!] {2,}[A-Z]'
+##  - '[a-z][.?!][A-Z]'

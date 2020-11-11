@@ -1,0 +1,16 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: substitution
+message: "Use '%s' instead of '%s'. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://example.com
+level: error
+ignorecase: true
+action:
+  name: replace
+swap:
+  URL for: URL of
+  an URL: a URL
+

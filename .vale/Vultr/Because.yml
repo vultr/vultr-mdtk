@@ -1,0 +1,14 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# 'Since' is frequently misused when the author means 'because'.
+#
+extends: existence
+message: "Suggestion: Verify you've used 'since' to refer to time (It's been an hour since...), and 'because' to refer to cause. (They did it because...) "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language
+level: suggestion
+ignorecase: true
+tokens:
+  - since

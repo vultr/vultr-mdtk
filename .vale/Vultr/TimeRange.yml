@@ -1,0 +1,13 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: existence
+message: "Use 'to' instead of a dash in time ranges. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.microsoft.com/en-us/style-guide/numbers
+level: error
+nonword: true
+tokens:
+#  - '\b(?:a.m.|p.m.)\s?[-–]\s?.+(?:a.m.|p.m.)\b'
+  - \b(?:a\.m\.|p\.m\.)\s?[-–]\s?\d+

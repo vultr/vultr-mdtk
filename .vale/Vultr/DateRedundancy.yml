@@ -1,0 +1,16 @@
+---
+# Portions of this toolkit are modifications based on the proselint text linter and 
+# used according to terms described in the BSD 3-Clause License.
+# https://github.com/errata-ai/proselint/blob/master/LICENSE
+extends: existence
+message: "This is redundant. 'a.m.' is always before noon, 'p.m.' is always after noon. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://example.com
+level: error
+ignorecase: true
+nonword: true
+tokens:
+  - '\d{1,2} ?a\.?m\.? in the morning'
+  - '\d{1,2} ?p\.?m\.? in the evening'
+  - '\d{1,2} ?p\.?m\.? at night'
+  - '\d{1,2} ?p\.?m\.? in the afternoon'

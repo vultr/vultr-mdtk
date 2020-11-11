@@ -1,0 +1,65 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by GitLab and 
+# used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+# https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
+#
+# For substitutions only flagged as warnings, see SubstitutionWarning.yml
+extends: substitution
+message: "Use '%s' instead of '%s'. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://about.gitlab.com/handbook/communication/#top-misused-terms
+level: error
+ignorecase: true
+action:
+  name: replace
+swap:
+  '(?:e-mail|Email|E-mail)': email
+  '(?:file ?path|path ?name)': path
+  '(?:kill|terminate|abort)': stop|exit|cancel|end
+  '(?:ok|Okay)': OK|okay
+  '(?:WiFi|wifi)': Wi-Fi
+  'un(?:check|select)': clear
+  above: preceding
+  account name: username
+  admin: administrator
+  Ajax: AJAX
+  approx\.: approximately
+  authN: authentication
+  authZ: authorization
+  autoupdate: automatically update
+  blacklist(?:ed|ing|s)?: deny|denylist
+  cellular data: mobile data
+  cellular network: mobile network
+  chapter: documents|pages|sections
+  check box: checkbox
+  click on: click|click in
+  data are: data is
+  ## dashboard: Customer Portal
+  datacenter(?:s)?: location
+  disabled?: turn off|off
+  fewer data: less data
+  file name: filename
+  functionality: capability|feature
+  grayed-out: unavailable
+  HTTPs: HTTPS
+  ingest: import|load
+  k8s: Kubernetes
+  master: primary|main
+  open-source: open source
+  regex: regular expression
+  SHA1: SHA-1|HAS-SHA1
+  sign into: sign in to
+  slave: secondary|replica|subordinate
+  styleguide: style guide
+  stylesheet: style sheet
+  synch: sync
+  tablename: table name
+  tablet: device
+  url:  URL
+  vs\.: versus
+  VPS: instance # Instance is preferred over VPS in most contexts. Vultr server instances can be bare-metal. Use VPS when specifically referring only to Virtual Private Servers.
+  # vultr: Vultr
+  whitelist(?:ed|ing|s)?: allow|allowlist
+  World Wide Web: web
+  x509: X.509
+  yaml: YAML

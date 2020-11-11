@@ -1,0 +1,12 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: existence
+message: "If space is an issue in a range of numbers, such as in tables, use an en dash instead of a hyphen. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.microsoft.com/en-us/style-guide/numbers
+level: warning
+nonword: true
+tokens:
+  - '\b\d+\s?[-]\s?\d+\b'

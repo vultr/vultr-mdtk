@@ -1,0 +1,18 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# "login" is a noun. "log in" is a verb.
+#
+extends: substitution
+message: "Use '%s', not '%s'. The noun is 'login'; the verb is 'log in'. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://example.com
+level: error
+ignorecase: true
+pos: 'login/VB|log/NN in/\w+'
+action:
+  name: replace
+swap:
+  login: log in
+  log in: login

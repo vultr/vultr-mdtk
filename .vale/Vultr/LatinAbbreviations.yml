@@ -1,0 +1,26 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by GitLab and 
+# used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+# https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
+# ---
+# Warning: gitlab.LatinTerms
+#
+# Checks for use of latin terms.
+#
+# For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
+extends: substitution
+message: "Use '%s' instead of '%s', or consider rewriting the sentence. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language
+level: warning
+nonword: true
+ignorecase: true
+action:
+  name: replace
+swap:
+  e\.g\.: for example
+  e\. g\.: for example
+  i\.e\.: that is
+  i\. e\.: that is
+  etc\.: and so on
+  et cetera: and so on

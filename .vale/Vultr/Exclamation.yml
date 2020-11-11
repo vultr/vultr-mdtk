@@ -1,0 +1,12 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Google and 
+# used according to terms described in the Creative Commons 4.0 Attribution License.
+# https://developers.google.com/terms/site-policies
+extends: existence
+message: "Don't use exclamation points. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://developers.google.com/style/exclamation-points
+level: error
+nonword: true
+tokens:
+  - '\w!(?:\s|$)'

@@ -1,0 +1,18 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: existence
+message: "Form a negative number with an en dash, not a hyphen. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.microsoft.com/en-us/style-guide/numbers
+level: error
+nonword: true
+action:
+  name: edit
+  params:
+    - replace
+    - '-'
+    - '–'
+tokens:
+  - '\s-\d+\s'

@@ -1,0 +1,13 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: existence
+message: "Suggestion: Sentences that contain semicolons are often complex. Try to simplify the sentence by breaking it into multiple sentences or a list. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://docs.microsoft.com/en-us/style-guide/punctuation/semicolons
+level: suggestion
+nonword: true
+scope: sentence
+tokens:
+  - ';'

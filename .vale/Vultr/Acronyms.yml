@@ -1,0 +1,107 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by GitLab and 
+# used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+# https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
+extends: conditional
+message: "Spell out '%s', if it's unfamiliar to the audience. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://about.gitlab.com/handbook/marketing/growth-marketing/content/editorial-team/#acronyms
+level: warning
+ignorecase: false
+# Ensures that the existence of 'first' implies the existence of 'second'.
+first: '\b([A-Z]{3,5})\b'
+second: '(?:\b[A-Z][a-z]+ )+\(([A-Z]{3,5})\)'
+# ... with the exception of these:
+exceptions:
+  - ANSI
+  - API
+  - ARN
+  - ASCII
+  - AWS
+  - BSD
+  - CLI
+  - CNAME
+  - CORE
+  - CPU
+  - CSS
+  - CSV
+  - DAST
+  - DNS
+  - EKS
+  - FAQ
+  - FOSS
+  - GCC
+  - GCP
+  - GDK
+  - GET
+  - GKE
+  - GNU
+  - GPG
+  - GPL
+  - HTML
+  - HTTP
+  - HTTPS
+  - IAM
+  - IBM
+  - IDE
+  - IID
+  - IMAP
+  - IRC
+  - ISO
+  - JSON
+  - LDAP
+  - LDAPS
+  - LESS
+  - LFS
+  - LRU
+  - MIT
+  - MIME
+  - MVC
+  - NFS
+  - NGINX
+  - NOTE
+  - NPM
+  - ONLY
+  - PDF
+  - PGP
+  - PHP
+  - POST
+  - PUT
+  - RAM
+  - RAW
+  - REST
+  - RPC
+  - RSA
+  - RSS
+  - RVM
+  - SAML
+  - SAST
+  - SCIM
+  - SCP
+  - SCSS
+  - SDK
+  - SHA
+  - SLA
+  - SMTP
+  - SQL
+  - SSH
+  - SSL
+  - SSO
+  - SVG
+  - SVN
+  - TCP
+  - TIP
+  - TLS
+  - TODO
+  - TOML
+  - UNIX
+  - URI
+  - URL
+  - USB
+  - UUID
+  - VPC
+  - VPS
+  - WIP
+  - WSL
+  - XML
+  - YAML

@@ -1,0 +1,13 @@
+---
+# Portions of this toolkit are modifications based on the write-good style rules and 
+# used according to terms described in the MIT license.
+# https://github.com/errata-ai/write-good/blob/master/LICENSE
+extends: existence
+message: "Don't start a sentence with '%s'. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://example.com
+level: error
+ignorecase: false
+raw:
+  - '(?:[;-]\s)There\s(is|are)|\bThere\s(is|are)\b'
+

@@ -1,0 +1,20 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by GitLab and 
+# used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+# https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
+# ---
+# Warning: gitlab.MeaningfulLinkWords
+#
+# Checks for the presence of semantically unhelpful words in link text.
+#
+# For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
+extends: existence
+message: "Improve SEO and accessibility by rewriting '%s' in the link text. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+# link: https://about.gitlab.com/handbook/communication/#writing-style-guidelines
+level: warning
+scope: link
+ignorecase: true
+tokens:
+  - here
+  - this page

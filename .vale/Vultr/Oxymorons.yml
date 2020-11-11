@@ -1,0 +1,26 @@
+---
+# Portions of this toolkit are modifications based on the proselint text linter and 
+# used according to terms described in the BSD 3-Clause License.
+# https://github.com/errata-ai/proselint/blob/master/LICENSE
+extends: existence
+message: "Avoid oxymorons such as '%s'. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: error
+ignorecase: true
+tokens:
+  - advancing backwards
+  - alludes explicitly to
+  - amateur expert
+  - build down
+  - completely obsolescent
+  - conspicuous absence
+  - exact estimate
+  - explicitly alludes to
+  - found missing
+  - generally always
+  - increasingly less
+  - intense apathy
+  - mandatory choice
+  - organized mess
+  - totally obsolescent
+  - usually always
