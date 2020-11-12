@@ -1,36 +1,33 @@
 # Vultr Markdown Toolkit
 
-The Vultr Markdown Toolkit is a productive Markdown writing environment with a docs-as-code philosophy. The toolkit supports remote editing with code-server and local installation with Visual Studio Code. It provides:
+The Vultr Markdown Toolkit is a productive Markdown writing environment with a docs-as-code philosophy that provides:
 
 * Markdown linting with **markdownlint**
 * Markdown productivity with **Markdown All in One**.
 * Grammar and style linting with **Vale** and the Vultr style guide.
 
-## How to Install with Visual Studio Code
+The toolkit supports remote editing with code-server or local installation with Visual Studio Code. 
 
-See [install-vscode.md](https://github.com/vultr/vultr-mdtk/blob/master/install-vscode.md) for installation instructions.
+## Installation
 
-## How to Install with code-server
-
-See [install-code-server.md](https://github.com/vultr/vultr-mdtk/blob/master/install-code-server.md) for installation instructions.
+* [code-server](https://github.com/vultr/vultr-mdtk/blob/integrate-vscode-w/-code-server/Markdown/Install%20with%20code-server.md) installation instructions
+* [Visual Studio Code](https://github.com/vultr/vultr-mdtk/blob/integrate-vscode-w/-code-server/Markdown/Install%20with%20Visual%20Studio%20Code.md) installation instructions
 
 ## Key Project Files
 
-### Shared
+* `code-server_vultr-mdtk.code-workspace` : Workspace for code-server
+* `VSCode_vultr-mdtk.code-workspace` : Workspace for Visual Studio Code
 
-* `.vale/` : The **code-server** and **vscode** workspaces share use the same Vale style rules.
-* `.vale.ini` : The shared [Vale configuration file](https://docs.errata.ai/vale/config).
+The **code-server** and **VSCode** workspaces share:
 
-### Visual Studio Code
+* `.vale/` : Vale style rules
+* `.vale.ini` : Vale configuration
+* `Markdown/` : Work folder
+* `Install with code-server.md` : Installation instructions for code-server
+* `Install with Visual Studio Code.md` : Installation instructions for VSCode
+* `Tests for Markdownlint and Vale.md` : Test suite
+* `Vultr Docs Template.md` : Vultr Docs author template
 
-* `vscode/` : Visual Studio Code users should edit Markdown files in this folder, or create subfolders below this location.
-* `vscode/vscode.code-workspace` : Open this workspace configuration when using Visual Studio Code.
-* `vscode/Tests.md` : Example test cases for Vale and markdownlint.
-
-### code-server
-
-* `code-server/` : code-server users should edit Markdown files in this folder, or create subfolders below this location.
-* `code-server/code-server.code-workspace` : Open this workspace configuration when using code-server.
 
 ## About the Vultr Style Guide and Vale
 
