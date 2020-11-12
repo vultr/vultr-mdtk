@@ -2,16 +2,19 @@ autoconfiguration
 bootable
 CapRover
 Certbot
-config
 datacenter
 docx
+GitHub
 (HTML|html)
 (HTTPS|https)
 (HTTP|http)
+IP
+Laravel
 Linux
 Let's Encrypt
 markdownlint
-Nginx
+mysql
+(Nginx|NGINX|nginx|NginX)
 nodejs
 Node.js
 npm
@@ -28,6 +31,7 @@ sudo
 (TCP|tcp)
 udp
 ufw
+uncomment
 (Uncomparables|uncomparables)
 (Vultr|vultr)
 vultr-mdtk

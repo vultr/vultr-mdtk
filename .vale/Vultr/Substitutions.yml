@@ -44,7 +44,9 @@ swap:
   HTTPs: HTTPS
   ingest: import|load
   k8s: Kubernetes
+  lastly: finally
   master: primary|main
+  mysql: MySQL
   open-source: open source
   regex: regular expression
   SHA1: SHA-1|HAS-SHA1
@@ -57,8 +59,9 @@ swap:
   tablet: device
   url:  URL
   vs\.: versus
-  VPS: instance # Instance is preferred over VPS in most contexts. Vultr server instances can be bare-metal. Use VPS when specifically referring only to Virtual Private Servers.
+  VPS: instance 
   # vultr: Vultr
+  webserver: web server
   whitelist(?:ed|ing|s)?: allow|allowlist
   World Wide Web: web
   x509: X.509
