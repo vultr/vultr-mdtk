@@ -2,14 +2,13 @@
 # The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 # https://creativecommons.org/licenses/by/4.0/
 #
-extends: capitalization
-message: "Headings should use title case. Vultr follows the Chicago Manual of Style.  "
+# Indent code by four spaces. Do not use tabs.
+#
+extends: existence
+message: "Indent code by four spaces. Do not use tabs. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://capitalizemytitle.com/style/chicago
 level: error
-scope: heading
-match: $title
-style: Chicago
-exceptions:
-  - macOS
-
+nonword: true
+scope: raw
+tokens:
+  - '^\t(.*$)'

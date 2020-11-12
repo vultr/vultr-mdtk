@@ -1,5 +1,8 @@
+(Ansible|ansible)
 autoconfiguration
 bootable
+Bukkit
+(Calibre|calibre)
 CapRover
 Certbot
 datacenter
@@ -9,13 +12,15 @@ GitHub
 (HTTPS|https)
 (HTTP|http)
 IP
+Koha
 Laravel
 Linux
 Let's Encrypt
 markdownlint
+Minecraft
+Nano
 (Nginx|NGINX|nginx|NginX)
-nodejs
-Node.js
+(nodejs|Node.js|NodeJS)
 npm
 (Oxymorons|Oxymoron|oxymorons|oxymoron)
 (Pandoc|pandoc)
@@ -27,11 +32,14 @@ slaacctl
 slaacd
 subnet
 sudo
+systemd
 (TCP|tcp)
 udp
 ufw
 uncomment
 (Uncomparables|uncomparables)
-(Vultr|vultr)
+venv
+Vultr
 vultr-mdtk
-
+WordPress
+yamllint

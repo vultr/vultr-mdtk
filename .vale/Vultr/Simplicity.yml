@@ -3,13 +3,13 @@
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
 # ---
-# Suggestion: gitlab.Simplicity
+# gitlab.Simplicity
 #
 # Checks for words implying ease of use, to avoid cognitive dissonance for frustrated users.
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: existence
-message: "Suggestion: Avoid words like '%s' that imply ease of use, because the user may find this action hard. "
+message: "Avoid words like '%s' that imply ease of use, because the user may find this action hard. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language-to-avoid
 level: suggestion

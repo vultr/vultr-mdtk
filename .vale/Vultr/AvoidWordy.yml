@@ -6,7 +6,7 @@
 # Wordy and redundant phrases that don't have replacement suggestions.
 #
 extends: existence
-message: "'%s' is too wordy or redundant. Consider rewriting this sentence. "
+message: "Consider rewriting this sentence. '%s' is too wordy or redundant. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://example.com
 level: warning
@@ -25,6 +25,7 @@ tokens:
   - for the most part
   - for the purpose of
   - have a tendency to
+  - however
   - in a manner of speaking
   - in a very real sense
   - in accordance with
@@ -42,12 +43,10 @@ tokens:
   - is applicable to
   - is authorized to
   - is responsible for
-  - it is
   - it is essential
   - it seems that
   - it was
   - impacted
-  - implement
   - inception
   - incumbent upon
   - indicate
@@ -83,7 +82,6 @@ tokens:
   - satisfy
   - shall
   - should you wish
-  - similar to
   - strategize
   - the month of
   - the point I am trying to make

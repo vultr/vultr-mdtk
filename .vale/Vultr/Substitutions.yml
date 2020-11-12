@@ -19,7 +19,7 @@ swap:
   '(?:ok|Okay)': OK|okay
   '(?:WiFi|wifi)': Wi-Fi
   'un(?:check|select)': clear
-  above: preceding
+  above: preceding|before
   account name: username
   admin: administrator
   Ajax: AJAX

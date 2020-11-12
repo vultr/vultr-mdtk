@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution License.
 # https://developers.google.com/terms/site-policies
 extends: substitution
-message: "Suggestion: Feel free to use '%s' instead of '%s'. "
+message: "Feel free to use '%s' instead of '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://developers.google.com/style/contractions
 level: suggestion
@@ -26,8 +26,6 @@ swap:
   that is: that's
   they are: they're
   was not: wasn't
-  we are: we're
-  we have: we've
   were not: weren't
   what is: what's
   when is: when's
