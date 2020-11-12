@@ -5,6 +5,8 @@
 		}
     ],
     "settings": {
+        "vscode-vale.path": "/home/linuxbrew/.linuxbrew/bin/vale",
+        "vscode-vale.configPath": "/home/mdtk/vultr-mdtk/.vale.ini",
         "markdown.extension.italic.indicator": "_",
         "markdown.extension.orderedList.marker": "one",
         "markdown.extension.toc.unorderedList.marker": "*",
@@ -18,5 +20,5 @@
         "vale.core.useCLI": true,
         "files.autoSave": "afterDelay",
         "files.autoSaveDelay": 3000
-    }
+	}
 }
