@@ -51,7 +51,6 @@ The Oxford English Dictionary (OED) is the principal historical dictionary of th
 ### Adverbs
 
 * Rule: `.vale/styles/Vultr/Adverbs.yml`
-* Documentation: <https://github.com/vultr/vultr-mdtk/blob/main/style_guide/Adverbs.md>
 
 The server is extremely overloaded.
 
@@ -187,7 +186,7 @@ He finished the MySQL installation before she tested it.
 
 * Rule: `.vale/styles/Vultr/Headings.yml`
 
-#### Headings should use Chiago Manual of Style headline style
+#### Headings use Chicago manual of style headline style
 
 ### Latin Abbreviations
 

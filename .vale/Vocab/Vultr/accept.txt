@@ -13,7 +13,6 @@ Laravel
 Linux
 Let's Encrypt
 markdownlint
-mysql
 (Nginx|NGINX|nginx|NginX)
 nodejs
 Node.js
