@@ -23,3 +23,5 @@ swap:
   filesystem: file system
   info: information
   repo: repository
+  mariadb: MariaDB 
+  php: PHP

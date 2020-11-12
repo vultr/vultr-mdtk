@@ -3,17 +3,16 @@
 # on the write-good style rules and used according 
 # to terms described in the MIT license.
 # https://github.com/errata-ai/write-good/blob/master/LICENSE
+# 
+# Avoid Idioms, Clichés, Jargon, Slang, and Euphemisms
+# 
 extends: existence
-message: "Try to avoid using clichés like '%s'. "
+message: "Avoid phrases like '%s' in documentation intended for an international audience. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://example.com
 level: warning
 ignorecase: true
 tokens:
-  - American as apple pie
-  - Hobson's choice
-  - I beg to differ
-  - Jack of all trades
   - a chip off the old block
   - a clean slate
   - a dark and stormy night
@@ -40,6 +39,7 @@ tokens:
   - all's fair in love and war
   - all's well that ends well
   - almighty dollar
+  - american as apple pie
   - an axe to grind
   - another day, another dollar
   - apples to apples
@@ -248,6 +248,7 @@ tokens:
   - fills the bill
   - filthy vermin
   - fine kettle of fish
+  - fingers crossed
   - first and foremost
   - fish out of water
   - fishing for a compliment
@@ -332,6 +333,7 @@ tokens:
   - hit paydirt
   - hit the ground running
   - hither and yon
+  - hobson's choice
   - hold your head up high
   - hold your horses
   - hold your own
@@ -341,6 +343,7 @@ tokens:
   - horse of a different color
   - hot under the collar
   - hour of need
+  - i beg to differ
   - i don't have the bandwidth
   - icing on the cake
   - if the shoe fits
@@ -370,6 +373,7 @@ tokens:
   - it's on my radar
   - it's only a matter of time
   - ivory tower
+  - jack of all trades
   - jockey for position
   - jog your memory
   - joined at the hip
@@ -784,6 +788,7 @@ tokens:
   - win-win
   - wisdom of the ages
   - wise as an owl
+  - with any luck
   - wolf at the door
   - wool pulled over our eyes
   - words fail me

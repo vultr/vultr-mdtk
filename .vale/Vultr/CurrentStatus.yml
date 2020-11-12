@@ -3,13 +3,13 @@
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
 # ---
-# Suggestion: gitlab.CurrentStatus
+# gitlab.CurrentStatus
 #
 # Checks for words that indicate a product or feature may change in the future.
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: existence
-message: "Suggestion: Avoid words like '%s' that promise future changes. "
+message: "Avoid words like '%s' that promise future changes. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language-to-avoid
 level: suggestion

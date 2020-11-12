@@ -65,6 +65,7 @@ exceptions:
   - PDF
   - PGP
   - PHP
+  - PID
   - POST
   - PUT
   - RAM
