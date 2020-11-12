@@ -15,8 +15,8 @@ The toolkit supports remote editing with code-server or local installation with 
 
 ## Key Project Files
 
-* `code-server_vultr-mdtk.code-workspace` : Vultr Markdown Toolkit workspace configuration for code-server
-* `VSCode_vultr-mdtk.code-workspace` : Vultr Markdown Toolkit workspace configuration for Visual Studio Code
+* `code-server_vultr-mdtk.code-workspace` : Workspace for code-server
+* `VSCode_vultr-mdtk.code-workspace` : Workspace for Visual Studio Code
 
 The **code-server** and **VSCode** workspaces share:
 
