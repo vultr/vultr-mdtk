@@ -1,5 +1,6 @@
 (Ansible|ansible)
 autoconfiguration
+boolean
 bootable
 Bukkit
 (Calibre|calibre)
@@ -40,6 +41,5 @@ uncomment
 (Uncomparables|uncomparables)
 venv
 Vultr
-vultr-mdtk
 WordPress
 yamllint
