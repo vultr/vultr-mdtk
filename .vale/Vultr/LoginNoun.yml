@@ -2,13 +2,15 @@
 # The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 # https://creativecommons.org/licenses/by/4.0/
 #
-# Vultr prefers asterisk to hyphen for Markdown bullet points.
 #
-extends: existence
-message: "Use an asterisk instead of a hyphen for bullet points. "
+extends: substitution
+message: "This looks like a noun. Use '%s' instead of the verb '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
+## link: https://example.com
 level: error
-nonword: true
-scope: raw
-tokens:
-  - '^-\s(.*$)'
+ignorecase: true
+pos: 'log/NN in/\w+'
+action:
+  name: replace
+swap:
+  log in: login
