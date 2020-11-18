@@ -59,7 +59,6 @@ swap:
   tablet: device
   url:  URL
   vs\.: versus
-  VPS: instance 
   # vultr: Vultr
   webserver: web server
   whitelist(?:ed|ing|s)?: allow|allowlist

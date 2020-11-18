@@ -19,6 +19,8 @@
         "markdownlint.run": "onSave",
         "vale.core.useCLI": true,
         "files.autoSave": "afterDelay",
-        "files.autoSaveDelay": 3000
+        "files.autoSaveDelay": 1000,
+        "editor.useTabStops": false,
+        "editor.detectIndentation": false
 	}
 }

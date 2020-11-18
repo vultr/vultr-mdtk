@@ -8,6 +8,8 @@ CapRover
 Certbot
 datacenter
 docx
+fdisk
+fstab
 GitHub
 (HTML|html)
 (HTTPS|https)

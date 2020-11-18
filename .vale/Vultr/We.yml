@@ -13,6 +13,6 @@ tokens:
   - we'(?:ve|re)
   - ours?
   - us
-#  - Let's # Workin on the regex that allos "Let's Encrypt" but rejects other "Let's". Vale's negative lookahead is weird.
+#  - Let's # Working on the regex that allows "Let's Encrypt" but rejects other "Let's". Vale's negative lookahead is weird.
 
   
