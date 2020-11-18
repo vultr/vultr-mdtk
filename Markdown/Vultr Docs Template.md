@@ -13,13 +13,13 @@ Describe the prerequisite environment or knowledge needed to perform the steps i
 * Required pre-install software packages
 * Reader skill level
 
-## 1. The First Step-by-Step Section
+## 1. First Section
 
 Break your documentation into logical sections. Use H2 (`##`) for major section headers. Headings should use title case, and Vultr follows the [Chicago Manual of Style](https://capitalizemytitle.com/style/chicago). When describing a series of steps, preface the steps with step numbers in this format:
 
-    ## 1. This is Step One
+    ## 1. Step One
 
-    ## 2. This is Step Two
+    ## 2. Step Two
 
 Indent code blocks with four spaces. **Vultr doesn't use triple-backticks to fence code blocks.** Preface command lines with a prompt symbol. Linux commands run as root use a hash prompt. Preface command run as a non-root with a dollar sign.
 
@@ -39,7 +39,7 @@ A Windows CMD user performing `dir`:
 
     C:\> dir
 
-## 2. The Next Step
+## 2. Next Step
 
 Wrap inline code with a single backtick. For example, you could instruct the user to perform `ls` in your narrative. Reserve backticks for commands and filenames. Don't use backticks as a replacement for bold or italics.
 
@@ -57,9 +57,9 @@ Heading 2 sections may contain multiple subsections. Use Heading 3 for subsectio
 
 Review the Vultr Style Guide for more formatting information. The Vultr Markdown Toolkit is helpful for real-time grammar and style feedback.
 
-## 3. The Last Step
+## 3. Last Step
 
-This is the last major section of this template. Your document may have more sections.
+This template has three steps-by-step sections. Your document may have more sections.
 
 ## Conclusion
 

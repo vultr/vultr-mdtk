@@ -36,7 +36,7 @@ swap:
   data are: data is
   ## dashboard: Customer Portal
   datacenter(?:s)?: location
-  disabled?: turn off|off
+  ## disabled?: turn off|off
   fewer data: less data
   file name: filename
   functionality: capability|feature
@@ -59,7 +59,6 @@ swap:
   tablet: device
   url:  URL
   vs\.: versus
-  VPS: instance 
   # vultr: Vultr
   webserver: web server
   whitelist(?:ed|ing|s)?: allow|allowlist

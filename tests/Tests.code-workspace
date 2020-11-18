@@ -1,12 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "./Markdown"
+			"path": "."
 		}
     ],
     "settings": {
-        "vscode-vale.path": "/home/linuxbrew/.linuxbrew/bin/vale",
-        "vscode-vale.configPath": "/home/mdtk/vultr-mdtk/.vale.ini",
         "markdown.extension.italic.indicator": "_",
         "markdown.extension.orderedList.marker": "one",
         "markdown.extension.toc.unorderedList.marker": "*",
@@ -22,5 +20,5 @@
         "files.autoSaveDelay": 1000,
         "editor.useTabStops": false,
         "editor.detectIndentation": false
-	}
+    }
 }

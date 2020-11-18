@@ -50,4 +50,8 @@ swap:
   woman scientist[s]?: scientist(s)
   work(?:m[ae]n|wom[ae]n): worker(s)
   he: they
-  she: they  
+  him: their
+  his: theirs
+  she: they
+  her: their
+  hers: theirs

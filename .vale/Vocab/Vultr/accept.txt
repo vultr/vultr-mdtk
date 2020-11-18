@@ -1,5 +1,6 @@
 (Ansible|ansible)
 autoconfiguration
+boolean
 bootable
 Bukkit
 (Calibre|calibre)
@@ -7,6 +8,8 @@ CapRover
 Certbot
 datacenter
 docx
+fdisk
+fstab
 GitHub
 (HTML|html)
 (HTTPS|https)
@@ -40,6 +43,5 @@ uncomment
 (Uncomparables|uncomparables)
 venv
 Vultr
-vultr-mdtk
 WordPress
 yamllint

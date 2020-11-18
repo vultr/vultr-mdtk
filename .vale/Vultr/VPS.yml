@@ -1,0 +1,12 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+extends: existence
+message: "Use 'cloud server', 'cloud server instance', or 'instance' instead of 'VPS.' Consider including a phrase in the introduction such as 'A cloud server instance is sometimes called a Virtual Private Server or VPS.'"
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: suggestion
+ignorecase: true
+tokens:
+  - VPS
+  - Virtual Private Server
