@@ -10,7 +10,7 @@ The toolkit supports remote editing with code-server or local installation with 
 
 ## code-server Installation
 
-See the [code-server](Install%20with%20code-server.md) installation instructions in the Markdown folder.
+See the [code-server](https://www.vultr.com/docs/vultr-markdown-toolkit-with-codeserver) installation instructions in the Vultr documentation library.
 
 ### Visual Studio Code Installation
 
@@ -38,21 +38,19 @@ See the [code-server](Install%20with%20code-server.md) installation instructions
    * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 1. Clone this repository to a local folder.
-1. Open `VSCode_vultr-mdtk.code-workspace` with Visual Studio Code. The workspace:
+1. Open `vultr-mdtk.code-workspace` with Visual Studio Code. The workspace:
     * Uses `Markdown/` as the working path.
     * Sets preferences specific to Vultr Docs.
 
 ## Key Project Files and Folders
 
-* `code-server_vultr-mdtk.code-workspace` : [Workspace for code-server](code-server_vultr-mdtk.code-workspace)
-* `VSCode_vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](VSCode_vultr-mdtk.code-workspace)
-* `Tests/` : [Test suite](tests) for Vultr styles. See [README.md](tests/README.md).
+* `code-server.code-workspace` : [Workspace for code-server](code-server.code-workspace)
+* `vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](vultr-mdtk.code-workspace)
+* `tests/` : [Test suite](tests) for Vultr styles. See [README.md](tests/README.md).
 * `.vale/` : [Vale style rules](.vale)
-* `.vale.ini` : [Vale configuration](.vale.ini)
+* `.vale.ini` : [Vale configuration file](.vale.ini)
 * `Markdown/` : [Working folder](Markdown)
-* `Install with code-server.md` : [Installation instructions](Install%20with%20code-server.md) for code-server
-* `Markdown/Vultr Docs Template.md` : [Vultr Docs template](Markdown/Vultr%20Docs%20Template.md)
-* `.gitignore` [excludes](.gitignore) `Markdown/Vultr Docs/`, which is handy for editors who use the toolkit and also contribute to the vultr-vmtk repo.
+* `Markdown/Vultr Docs Template.md` : [A template for Vultr Docs authors](Markdown/Vultr%20Docs%20Template.md)
 
 ## About the Vultr Style Guide and Vale
 

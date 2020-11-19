@@ -1,11 +1,13 @@
 (Ansible|ansible)
 autoconfiguration
+[B|b]lockquotes?
 boolean
 bootable
 Bukkit
 (Calibre|calibre)
 CapRover
 Certbot
+ctrl
 datacenter
 docx
 fdisk
@@ -37,11 +39,12 @@ subnet
 sudo
 systemd
 (TCP|tcp)
+timeframe
 udp
 ufw
 uncomment
 (Uncomparables|uncomparables)
 venv
-Vultr
+(Vultr|vultr-mdtk)
 WordPress
 yamllint

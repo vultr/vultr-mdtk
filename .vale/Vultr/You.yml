@@ -1,0 +1,15 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# Simple check for 'you'. 
+# TODO: Only detect at the beginning of the sentence.
+#
+extends: existence
+message: "Consider removing '%s'. It's common to omit 'you' in documentation. For example, replace 'You will edit the file.' with 'Edit the file.'"
+link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_an_Implied_Subject
+level: warning
+ignorecase: true
+tokens:
+  - you can
+  - you will

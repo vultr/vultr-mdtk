@@ -19,7 +19,7 @@ swap:
   '(?:ok|Okay)': OK|okay
   '(?:WiFi|wifi)': Wi-Fi
   'un(?:check|select)': clear
-  above: preceding|before
+  # above: preceding|before
   account name: username
   admin: administrator
   Ajax: AJAX
@@ -44,7 +44,7 @@ swap:
   HTTPs: HTTPS
   ingest: import|load
   k8s: Kubernetes
-  lastly: finally
+  # lastly: finally
   master: primary|main
   mysql: MySQL
   open-source: open source

@@ -14,5 +14,3 @@ tokens:
   - ours?
   - us
 #  - Let's # Working on the regex that allows "Let's Encrypt" but rejects other "Let's". Vale's negative lookahead is weird.
-
-  
