@@ -4,8 +4,7 @@
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: substitution
 message: "Consider using '%s' instead of '%s'. "
-link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://docs.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences
+link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Simple_Language
 level: warning
 ignorecase: true
 action:
@@ -99,7 +98,7 @@ swap:
   complete stranger: stranger
   completely separate: separate
   comply with: obey
-  component: part
+  # component: part
   comprise: form|include
   concept: idea
   concerning the matter of: regarding
@@ -149,7 +148,7 @@ swap:
   exclusively: only
   expedite: hurry
   expend: use
-  expiration: end|stop
+  # expiration: end|stop
   extend an invitation: invite
   facilitate: ease
   factual evidence: evidence

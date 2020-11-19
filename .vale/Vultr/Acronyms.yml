@@ -20,6 +20,7 @@ exceptions:
   - AWS
   - BSD
   - CLI
+  - CMD
   - CNAME
   - CORE
   - CPU
@@ -34,6 +35,7 @@ exceptions:
   - GCP
   - GDK
   - GET
+  - GIF
   - GKE
   - GNU
   - GPG
@@ -49,6 +51,7 @@ exceptions:
   - IMAP
   - IRC
   - ISO
+  - JPG
   - JSON
   - LDAP
   - LDAPS
@@ -67,6 +70,7 @@ exceptions:
   - PGP
   - PHP
   - PID
+  - PNG
   - POST
   - PUT
   - RAM

@@ -2,8 +2,6 @@
 # The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 # https://creativecommons.org/licenses/by/4.0/
 #
-# Avoid frequent use of blockquotes. Reserve blockquotes for important notes that require high visibility.
-#
 extends: existence
 message: "Avoid frequent use of blockquotes. Reserve blockquotes for important notes that require high visibility. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide

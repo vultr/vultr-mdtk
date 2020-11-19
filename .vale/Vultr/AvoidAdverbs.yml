@@ -106,7 +106,7 @@ tokens:
   - fatally
   - ferociously
   - fervently
-  - few
+  # - few
   - fiercely
   - finally
   - fondly
@@ -186,7 +186,7 @@ tokens:
   - luckily
   - madly
   - majestically
-  - many
+  # - many
   - meaningfully
   - mechanically
   - mentally
@@ -326,7 +326,7 @@ tokens:
   - urgently
   - usefully
   - uselessly
-  - usually
+  # - usually
   - utterly
   - vacantly
   - vaguely
