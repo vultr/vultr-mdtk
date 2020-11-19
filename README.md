@@ -10,7 +10,7 @@ The toolkit supports remote editing with code-server or local installation with 
 
 ## code-server Installation
 
-See the [code-server](https://github.com/vultr/vultr-mdtk/blob/main/Install%20with%20code-server.md) installation instructions in the Markdown folder.
+See the [code-server](Install%20with%20code-server.md) installation instructions in the Markdown folder.
 
 ### Visual Studio Code Installation
 
@@ -37,22 +37,22 @@ See the [code-server](https://github.com/vultr/vultr-mdtk/blob/main/Install%20wi
    * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
    * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-1. Clone the [Vultr Markdown Toolkit](https://github.com/vultr/vultr-mdtk) repository to a local folder.
+1. Clone this repository to a local folder.
 1. Open `VSCode_vultr-mdtk.code-workspace` with Visual Studio Code. The workspace:
     * Uses `Markdown/` as the working path.
     * Sets preferences specific to Vultr Docs.
 
 ## Key Project Files and Folders
 
-* `code-server_vultr-mdtk.code-workspace` : [Workspace for code-server](https://github.com/vultr/vultr-mdtk/blob/main/code-server_vultr-mdtk.code-workspace)
-* `VSCode_vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](https://github.com/vultr/vultr-mdtk/blob/main/VSCode_vultr-mdtk.code-workspace)
-* `Tests/` : [Test suite](https://github.com/vultr/vultr-mdtk/tree/main/tests) for Vultr styles. See [README.md](https://github.com/vultr/vultr-mdtk/blob/main/tests/README.md).
-* `.vale/` : [Vale style rules](https://github.com/vultr/vultr-mdtk/tree/main/.vale)
-* `.vale.ini` : [Vale configuration](https://github.com/vultr/vultr-mdtk/blob/main/.vale.ini)
-* `Markdown/` : [Working folder](https://github.com/vultr/vultr-mdtk/tree/main/Markdown)
-* `Install with code-server.md` : [Installation instructions](https://github.com/vultr/vultr-mdtk/blob/main/Install%20with%20code-server.md) for code-server
-* `Markdown/Vultr Docs Template.md` : [Vultr Docs template](https://github.com/vultr/vultr-mdtk/blob/main/Markdown/Vultr%20Docs%20Template.md)
-* `.gitignore` [excludes](https://github.com/vultr/vultr-mdtk/blob/main/.gitignore) `Markdown/Vultr Docs/`, which is handy for editors who use the toolkit and also contribute to the vultr-vmtk repo.
+* `code-server_vultr-mdtk.code-workspace` : [Workspace for code-server](code-server_vultr-mdtk.code-workspace)
+* `VSCode_vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](VSCode_vultr-mdtk.code-workspace)
+* `Tests/` : [Test suite](tests) for Vultr styles. See [README.md](tests/README.md).
+* `.vale/` : [Vale style rules](.vale)
+* `.vale.ini` : [Vale configuration](.vale.ini)
+* `Markdown/` : [Working folder](Markdown)
+* `Install with code-server.md` : [Installation instructions](Install%20with%20code-server.md) for code-server
+* `Markdown/Vultr Docs Template.md` : [Vultr Docs template](Markdown/Vultr%20Docs%20Template.md)
+* `.gitignore` [excludes](.gitignore) `Markdown/Vultr Docs/`, which is handy for editors who use the toolkit and also contribute to the vultr-vmtk repo.
 
 ## About the Vultr Style Guide and Vale
 
