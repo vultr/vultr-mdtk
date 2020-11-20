@@ -1,7 +1,32 @@
-#########################################
+##############################################################################
+# Contact: David Finster - dfinster@vultr.com
+#
+# This folder contain one Markdown files per Vale Style rule. Each Markdown
+# file is designed to violate that rule in some way, and may also demonstrate
+# successful examples. The PowerShell script runs each Markdown file through 
+# Vale, collects the results, then compares the test result to the expected
+# result.
+#
+# This tests new rules and regression tests the entire set of styles, which
+# is useful after a Vale upgrade or to compare across platforms.
+#
+#### To run the test:
+#
+#    1. Open PowerShell.
+#    2. Change to this directory.
+#    3. Run:
+#
+#        PS > .\Test.ps1
+#
+#### To set new expected results:
+#
+#    1. Run the script
+#    2. Copy Test.txt to ExpectedResult.txt
+#
+##############################################################################
 # MIT license
 #
-# Copyright 2020, David Finster
+# Copyright 2020, Vultr.com
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to 
@@ -21,25 +46,17 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 #
-# Run as:
-#
-# > .\Test.ps1
-#
-# To generate new expected results:
-#
-# 1. Run the script
-# 3. Copy TestRaw.txt to TestExpected.txt
-#
-#########################################
+##############################################################################
 
-## Expected results. Vale errors in this file are expected.
-$fileExpected = "TestExpected.txt"
+## Expected result. These are the expected errors for a successful test.
+$fileExpected = "ExpectedResult.txt"
 
-# Intermediate raw test file with Vale errors from this test pass.
-$fileTest = "TestRaw.txt"
+# Intermediate test file with the errors from this test run.
+$fileTest = "Test.txt"
 
-# Final report with difference from expected results. Should be null is test is successful.
-$fileReport = "TestReport.txt"
+# Final report showing the difference from expected results.
+# File is not created if test is successful.
+$fileReport = "Report.txt"
 
 # Delete old test output
 If (Test-Path -Path $fileTest ) { Remove-Item -Path $fileTest }
@@ -58,7 +75,7 @@ $compareTest = Get-Content $fileTest
 $compare = Compare-Object $compareExpected $compareTest
 
 If ($compare) { 
-    Write-Host "`nDifferences found. Report file:" $fileReport
+    Write-Host "`nDifferences found. See:" $fileReport
     $compare | foreach  { 
         if ($_.sideindicator -eq '<=') {
             $_.sideindicator = $fileExpected

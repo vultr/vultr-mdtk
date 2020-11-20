@@ -24,11 +24,11 @@ Let's Encrypt
 markdownlint
 Minecraft
 Nano
-(Nginx|NGINX|nginx|NginX)
+([N|n]gin[X|x]|NGINX)
 (nodejs|Node.js|NodeJS)
 npm
-(Oxymorons|Oxymoron|oxymorons|oxymoron)
-(Pandoc|pandoc)
+[O|o]xymorons?
+[P|p]andoc
 (PDF|pdf)
 Postgres
 proselint
@@ -43,7 +43,8 @@ timeframe
 udp
 ufw
 uncomment
-(Uncomparables|uncomparables)
+[U|u]ncomparables?
+unserializes?
 venv
 (Vultr|vultr-mdtk)
 WordPress

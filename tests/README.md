@@ -7,11 +7,7 @@
 
 ## Vale Test Script
 
-From the Vale folder in PowerShell, run `Test.ps1` to test the Vale style rules.
-
-* **TestExpected.txt:** Expected results. TestRaw.txt should match this file.
-* **TestRaw.txt:** Raw test file with Vale errors from this test pass.
-* **TestReport.txt:** Report with difference from expected results. This file isn't created if the test succeeds.
+From the Vale folder in PowerShell, run `Test.ps1` to test the Vale style rules. See more documentation in the header of `Test.ps1`.
 
 ## Example Test Success
 
@@ -43,7 +39,7 @@ From the Vale folder in PowerShell, run `Test.ps1` to test the Vale style rules.
     Vultr.VPS.md
     Vultr.We.md
 
-    Differences found. Report file: TestReport.txt
+    Differences found.
 
     Value
     -----
