@@ -1,0 +1,14 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# Test for parenthesis without leading whitespace, except for Markdown URLS, or when used as plural(s) which is caught by Vultr.Plurals.
+#
+extends: existence
+message: "It looks like there should be a space here. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: warning
+nonword: true
+# scope: raw
+tokens:
+  - '([a-z]|[A-Z])\((?:[A-Z]|[a-r]|[t-z]\))'

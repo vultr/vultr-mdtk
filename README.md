@@ -8,7 +8,7 @@ The Vultr Markdown Toolkit is a productive Markdown writing environment with a d
 
 The toolkit supports remote editing with code-server or local installation with Visual Studio Code.
 
-## code-server Installation
+## Code-Server Installation
 
 See the [code-server](https://www.vultr.com/docs/vultr-markdown-toolkit-with-codeserver) installation instructions in the Vultr documentation library.
 

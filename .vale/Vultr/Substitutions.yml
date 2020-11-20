@@ -47,7 +47,7 @@ swap:
   # lastly: finally
   master: primary|main
   mysql: MySQL
-  open-source: open source
+  open source: open-source
   regex: regular expression
   SHA1: SHA-1|HAS-SHA1
   sign into: sign in to
