@@ -23,6 +23,7 @@ Linux
 Let's Encrypt
 markdownlint
 Minecraft
+MineOS
 Nano
 ([N|n]gin[X|x]|NGINX)
 (nodejs|Node.js|NodeJS)

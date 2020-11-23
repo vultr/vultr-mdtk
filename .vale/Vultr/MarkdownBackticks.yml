@@ -1,0 +1,14 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# Vultr does not use fenced codeblocks. Indent code by four spaces. Do not use tabs.
+#
+extends: existence
+message: "Use single backticks for inline code. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: error
+nonword: true
+scope: raw
+tokens:
+  - '``'

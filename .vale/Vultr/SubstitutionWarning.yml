@@ -25,3 +25,4 @@ swap:
   repo: repository
   mariadb: MariaDB 
   php: PHP
+  depicts: explains|describes
