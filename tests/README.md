@@ -7,7 +7,7 @@
 
 ## Vale Test Script
 
-From the Vale folder in PowerShell, run `Test.ps1` to test the Vale style rules. See more documentation in the header of `Test.ps1`.
+Run `Test.ps1` in the `Vale` folder to test the Vale style rules. See more documentation in the header of `Test.ps1`.
 
 ## Example Test Success
 

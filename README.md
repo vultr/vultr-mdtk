@@ -1,5 +1,11 @@
 # Vultr Markdown Toolkit
 
+## Beta Preview Release
+
+This is preview release. Please contact [David Finster](mailto:dfinster@vultr.com?subject=Vultr%20Markdown%20Toolkit) with comments and suggestions.
+
+## Introduction
+
 The Vultr Markdown Toolkit is a productive Markdown writing environment with a docs-as-code philosophy that provides:
 
 * Markdown linting with **markdownlint**
