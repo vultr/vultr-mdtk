@@ -5,7 +5,7 @@
 # Vultr does not use fenced codeblocks. Indent code by four spaces. Do not use tabs.
 #
 extends: existence
-message: "Vultr does not use fenced codeblocks. Indent code by four spaces. "
+message: "Vultr does not use fenced codeblocks. Please indent code by four spaces. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 nonword: true

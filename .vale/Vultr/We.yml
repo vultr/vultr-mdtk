@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "Try to avoid using first-person plural like '%s'. "
+message: "Try to avoid using first-person plural pronouns like '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://docs.microsoft.com/en-us/style-guide/grammar/person#avoid-first-person-plural
 level: warning

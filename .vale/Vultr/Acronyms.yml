@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
 extends: conditional
-message: "Spell out '%s', if it's unfamiliar to the audience. "
+message: "Spell out '%s', if it's an unfamiliar acronym to the audience. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://about.gitlab.com/handbook/marketing/growth-marketing/content/editorial-team/#acronyms
 level: warning

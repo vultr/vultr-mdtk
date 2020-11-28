@@ -2,15 +2,11 @@
 # The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 # https://creativecommons.org/licenses/by/4.0/
 #
-#
-extends: substitution
-message: "This looks like a noun. Use '%s' instead of the verb '%s'. "
+# Unless it's "Let's Encrypt".
+extends: existence
+message: Unless referrring to Let's Encrypt, avoid using "Let's".
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-## link: https://example.com
 level: error
 ignorecase: true
-pos: 'log/NN in/\w+'
-action:
-  name: replace
-swap:
-  log in: login
+tokens:
+  - Let's

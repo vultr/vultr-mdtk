@@ -6,7 +6,7 @@
 # Checks for use of future tense in sentences. Present tense is preferred as
 # much as possible.
 extends: existence
-message: "Avoid using future tense: '%s'. "
+message: "Please avoid future tense phrases like '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language-to-avoid
 level: warning

@@ -2,15 +2,17 @@
 # The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 # https://creativecommons.org/licenses/by/4.0/
 #
+# "setup" is a noun. "set up" is a verb.
 #
 extends: substitution
-message: "This looks like a verb. Use '%s' instead of the noun '%s'. "
+message: "Use the noun '%s' instead of the verb '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-## link: https://example.com
+# link: https://example.com
 level: error
 ignorecase: true
-pos: 'login/VB\w+'
+pos: 'set/NN up/\w+|log/NN in/\w+'
 action:
   name: replace
 swap:
-  login: log in
+  set up: setup  
+  log in: login
