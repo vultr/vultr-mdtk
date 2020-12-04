@@ -8,7 +8,7 @@ This is preview release. Please contact [David Finster](mailto:dfinster@vultr.co
 
 The Markdown Toolkit toolkit enhances Visual Studio Code with productivity tools and Vultr Style Guide linting. Authors who write for [Vultr Docs](https://www.vultr.com/docs/) should consider using this toolkit to find common writing problems before [submitting their articles](https://my.vultr.com/docs/submit/) for review. The toolkit also runs under code-server for remote editing.
 
-### Visual Studio Code Installation
+## Visual Studio Code Installation
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
 1. Install [Vale](https://docs.errata.ai/vale/install).
