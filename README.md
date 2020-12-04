@@ -6,47 +6,25 @@ This is preview release. Please contact [David Finster](mailto:dfinster@vultr.co
 
 ## Introduction
 
-The Vultr Markdown Toolkit is a productive Markdown writing environment with a docs-as-code philosophy that provides:
-
-* Markdown linting with **markdownlint**
-* Markdown productivity with **Markdown All in One**.
-* Grammar and style linting with **Vale** and the Vultr style guide.
-
-The toolkit supports remote editing with code-server or local installation with Visual Studio Code.
-
-## Code-Server Installation
-
-See the [code-server](https://www.vultr.com/docs/vultr-markdown-toolkit-with-codeserver) installation instructions in the Vultr documentation library.
+The Markdown Toolkit toolkit enhances Visual Studio Code with productivity tools and Vultr Style Guide linting. Authors who write for [Vultr Docs](https://www.vultr.com/docs/) should consider using this toolkit to find common writing problems before [submitting their articles](https://my.vultr.com/docs/submit/) for review. The toolkit also runs under code-server for remote editing.
 
 ### Visual Studio Code Installation
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
 1. Install [Vale](https://docs.errata.ai/vale/install).
-
-    **Linux & macOS users:**
-
-    * Install [Brew](https://brew.sh/).
-    * Install [Vale](https://docs.errata.ai/vale/install):
-
-            brew install vale
-
-    **Windows users:**
-
-    * Install [Chocolatey](https://chocolatey.org/).
-    * Install [Vale](https://docs.errata.ai/vale/install):
-
-            > choco install vale
-
-1. Install Extensions:
+1. Install the required extensions:
 
    * [Vale Extension](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server)
    * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
    * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
 1. Clone this repository to a local folder.
-1. Open `vultr-mdtk.code-workspace` with Visual Studio Code. The workspace:
-    * Uses `Markdown/` as the working path.
-    * Sets preferences specific to Vultr Docs.
+1. Open `vultr-mdtk.code-workspace` with Visual Studio Code.
+1. Edit your Markdown files in the `Markdown/` folder.
+
+## Code-Server Installation
+
+See the [code-server](https://www.vultr.com/docs/vultr-markdown-toolkit-with-codeserver) installation instructions in the Vultr documentation library.
 
 ## Key Project Files and Folders
 
