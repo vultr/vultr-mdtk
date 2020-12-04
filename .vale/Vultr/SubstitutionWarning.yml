@@ -10,7 +10,7 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: substitution
-message: "If possible, use '%s' instead of '%s'. "
+message: "Please consider using '%s' instead of '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://about.gitlab.com/handbook/communication/#top-misused-terms
 level: warning
@@ -18,11 +18,12 @@ ignorecase: true
 action:
   name: replace
 swap:
-  code base: codebase
+  blacklist(?:ed|ing|s)?: deny|denylist
   distro: distribution
-  filesystem: file system
   info: information
   repo: repository
-  mariadb: MariaDB 
   php: PHP
-  depicts: explains|describes
+  mariadb: MariaDB 
+  master: primary|main
+  slave: secondary|replica|subordinate  
+  whitelist(?:ed|ing|s)?: allow|allowlist

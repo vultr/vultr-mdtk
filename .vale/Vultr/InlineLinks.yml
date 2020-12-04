@@ -2,11 +2,15 @@
 # The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 # https://creativecommons.org/licenses/by/4.0/
 #
-# Unless it's "Let's Encrypt".
+# Vultr does not use reference-style links.
+#
 extends: existence
-message: Unless referrring to Let's Encrypt, avoid using "Let's".
+message: "Use inline links. Please do not use reference-style links. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
-ignorecase: true
+nonword: true
+scope: raw
 tokens:
-  - Let's
+  - '\]\s'
+  - '\]:'
+  - '\]\.'

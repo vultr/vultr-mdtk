@@ -3,14 +3,13 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "Try to avoid using first-person plural pronouns like '%s'. "
+message: Be cautious with first person plural pronouns like "%s". Make sure it refers to Vultr, not the reader or author.
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://docs.microsoft.com/en-us/style-guide/grammar/person#avoid-first-person-plural
 level: warning
 ignorecase: true
 tokens:
-  - we
   - we'(?:ve|re)
+  - we
   - ours?
   - us
-#  - Let's # Working on the regex that allows "Let's Encrypt" but rejects other "Let's". Vale's negative lookahead is weird.

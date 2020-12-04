@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "In most cases, use 'from' and 'through' to describe a range of numbers instead of an en dash, unless space is an issue. Example: 'from 20 through 30'. "
+message: "Unless space is an issue, such as in tables, use 'from' and 'through' to describe a range of numbers. Example: 'from 20 through 30'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://docs.microsoft.com/en-us/style-guide/numbers
 level: warning

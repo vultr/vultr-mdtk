@@ -12,4 +12,5 @@ match: $title
 style: Chicago
 exceptions:
   - macOS
+  - cPanel
 

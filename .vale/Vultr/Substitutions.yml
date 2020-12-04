@@ -16,28 +16,25 @@ swap:
   '(?:e-mail|Email|E-mail)': email
   '(?:file ?path|path ?name)': path
   '(?:kill|terminate|abort)': stop|exit|cancel|end
-  '(?:ok|Okay)': OK|okay
   '(?:WiFi|wifi)': Wi-Fi
   'un(?:check|select)': clear
   # above: preceding|before
   account name: username
   admin: administrator
   Ajax: AJAX
-  approx\.: approximately
+  approx\.?: about
   authN: authentication
   authZ: authorization
   autoupdate: automatically update
-  blacklist(?:ed|ing|s)?: deny|denylist
   cellular data: mobile data
   cellular network: mobile network
-  chapter: documents|pages|sections
   check box: checkbox
   click on: click|click in
-  data are: data is
+  cloud computer: cloud compute instance
+  config: configuration
   ## dashboard: Customer Portal
   datacenter(?:s)?: location
   ## disabled?: turn off|off
-  fewer data: less data
   file name: filename
   functionality: capability|feature
   grayed-out: unavailable
@@ -45,23 +42,18 @@ swap:
   ingest: import|load
   k8s: Kubernetes
   # lastly: finally
-  master: primary|main
   mysql: MySQL
-  open source: open-source
+  # open source: open-source ## Haven't found a consensus on this term yet.
+  ok: OK
   regex: regular expression
-  SHA1: SHA-1|HAS-SHA1
   sign into: sign in to
-  slave: secondary|replica|subordinate
-  styleguide: style guide
-  stylesheet: style sheet
   synch: sync
   tablename: table name
   tablet: device
   url:  URL
-  vs\.: versus
-  # vultr: Vultr
+  vs\.?: versus
+  vultr: Vultr
   webserver: web server
-  whitelist(?:ed|ing|s)?: allow|allowlist
   World Wide Web: web
   x509: X.509
   yaml: YAML

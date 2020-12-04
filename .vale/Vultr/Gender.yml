@@ -6,7 +6,7 @@ extends: substitution
 message: "Consider using '%s' instead of '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 # link: https://example.com
-level: suggestion
+level: warning
 ignorecase: true
 action:
   name: replace

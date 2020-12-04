@@ -29,8 +29,10 @@ exceptions:
   - DAST
   - DNS
   - EKS
+  - EULA
   - FAQ
   - FOSS
+  - FTP
   - GCC
   - GCP
   - GDK
@@ -58,6 +60,7 @@ exceptions:
   - LESS
   - LFS
   - LRU
+  - LTS
   - MIT
   - MIME
   - MVC
