@@ -6,4 +6,4 @@
 
 ## Headings Don't Use Periods.
 
-## Use Question Marks in FAQ Headings?
+## It's OK to Use Question Marks in FAQ Headings?

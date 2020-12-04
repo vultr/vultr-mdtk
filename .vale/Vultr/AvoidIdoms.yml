@@ -7,7 +7,7 @@
 # Avoid Idioms, Clichés, Jargon, Slang, and Euphemisms
 # 
 extends: existence
-message: "Avoid phrases like '%s' in documentation intended for an international audience. "
+message: "Avoid '%s' when writing documentation intended for an international audience. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Simple_Language
 level: warning
 ignorecase: true
@@ -22,6 +22,7 @@ tokens:
   - a penny saved is a penny earned
   - a tough row to hoe
   - a word to the wise
+  - accordingly
   - ace in the hole
   - acid test
   - add insult to injury
@@ -33,6 +34,7 @@ tokens:
   - all hell broke loose
   - all in a day's work
   - all talk, no action
+  - all things considered
   - all thumbs
   - all your eggs in one basket
   - all's fair in love and war
@@ -42,13 +44,18 @@ tokens:
   - an axe to grind
   - another day, another dollar
   - apples to apples
+  - appreciable
   - armed to the teeth
+  - as far as I'm concerned
   - as luck would have it
   - as old as time
   - as the crow flies
+  - as to
+  - as yet
   - at loose ends
   - at my wits end
   - at the end of the day
+  - attributable to
   - avoid like the plague
   - babe in the woods
   - back against the wall
@@ -138,6 +145,7 @@ tokens:
   - busy as a bee
   - but that's another story
   - by hook or by crook
+  - by means of
   - call a spade a spade
   - called onto the carpet
   - calm before the storm
@@ -264,6 +272,8 @@ tokens:
   - for all intents and purposes
   - for free
   - for the birds
+  - for the most part
+  - for the purpose of
   - for what it's worth
   - force of nature
   - force to be reckoned with
@@ -313,6 +323,7 @@ tokens:
   - hasn't a clue
   - have a nice day
   - have a short fuse
+  - have a tendency to
   - have high hopes
   - have the last laugh
   - haven't got a row to hoe
@@ -348,25 +359,48 @@ tokens:
   - if the shoe fits
   - if the shoe were on the other foot
   - if you catch my drift
+  - impacted
   - in a jam
   - in a jiffy
+  - in a manner of speaking
   - in a nutshell
   - in a pig's eye
   - in a pinch
+  - in a very real sense
   - in a word
+  - in accordance with
+  - in addition
+  - in all likelihood
+  - in excess of
   - in hot water
   - in light of
+  - in light of the fact that
+  - in my (?:honest|humble)? opinion
+  - in regard to
+  - in terms of
+  - in the case of
   - in the final analysis
   - in the gutter
   - in the last analysis
+  - in the nature of
   - in the nick of time
+  - in the process of
   - in the thick of it
   - in your dreams
+  - inception
+  - incumbent upon
+  - indicate
   - innocent bystander
+  - is applicable to
+  - is authorized to
+  - is responsible for
   - it ain't over till the fat lady sings
   - it goes without saying
+  - it is essential
+  - it seems that
   - it takes all kinds
   - it takes one to know one
+  - it was
   - it's a small world
   - it's not what you know, it's who you know
   - it's on my radar
@@ -503,13 +537,21 @@ tokens:
   - nose to the grindstone
   - not a hope in hell
   - not a minute's peace
+  - not certain
   - not in my backyard
+  - not many
+  - not often
   - not playing with a full deck
   - not the end of the world
+  - not unless
+  - not unlike
   - not written in stone
   - nothing to sneeze at
   - nothing ventured nothing gained
+  - notwithstanding
   - now we're cooking
+  - null and void
+  - obtain
   - off the top of my head
   - off the wagon
   - off the wall
@@ -523,8 +565,10 @@ tokens:
   - on my plate
   - on pins and needles
   - on the bandwagon
+  - on the contrary
   - on the money
   - on the nose
+  - on the other hand
   - on the rocks
   - on the same page
   - on the spot
@@ -532,11 +576,13 @@ tokens:
   - on the wagon
   - on thin ice
   - once bitten, twice shy
+  - once you do so
   - one bad apple doesn't spoil the bushel
   - one born every minute
   - one brick short
   - one foot in the grave
   - one in a million
+  - one particular
   - one red cent
   - only game in town
   - open a can of worms
@@ -550,12 +596,17 @@ tokens:
   - out on a limb
   - over a barrel
   - over the hump
+  - overall
+  - owing to the fact that
   - pain and suffering
   - pain in the
   - panic button
   - par for the course
   - part and parcel
+  - participate
+  - particulars
   - party pooper
+  - pass away
   - pass the buck
   - patience is a virtue
   - pay through the nose
@@ -575,11 +626,15 @@ tokens:
   - playing with fire
   - pleased as punch
   - plenty of fish in the sea
+  - point in time
   - point with pride
   - poor as a church mouse
   - pot calling the kettle black
+  - preclude
   - presidential timber
   - pretty as a picture
+  - proficiency
+  - provided that
   - pull a fast one
   - pull your punches
   - pulled no punches
@@ -587,6 +642,7 @@ tokens:
   - pure as the driven snow
   - put it in a nutshell
   - put one over on you
+  - put simply
   - put the cart before the horse
   - put the pedal to the metal
   - put your best foot forward
@@ -608,7 +664,15 @@ tokens:
   - red herring
   - redound to one's credit
   - redound to the benefit of
+  - refer back
+  - regarding
   - reinvent the wheel
+  - remainder
+  - remuneration
+  - requirement
+  - reside
+  - residence
+  - retain
   - rich and famous
   - rings a bell
   - ripe old age
@@ -623,6 +687,7 @@ tokens:
   - sad but true
   - sadder but wiser
   - salt of the earth
+  - satisfy
   - scared stiff
   - scared to death
   - sea change
@@ -634,11 +699,13 @@ tokens:
   - set the record straight
   - set the world on fire
   - set your teeth on edge
+  - shall
   - sharp as a tack
   - shirked his duties
   - shoot for the moon
   - shoot the breeze
   - shot in the dark
+  - should you wish
   - shoulder to the wheel
   - sick as a dog
   - sigh of relief
@@ -672,6 +739,7 @@ tokens:
   - stitch in time
   - stop and smell the roses
   - straight as an arrow
+  - strategize
   - straw that broke the camel's back
   - stretched to the breaking point
   - strong as an ox
@@ -692,13 +760,16 @@ tokens:
   - than you can shake a stick at
   - the cream of the crop
   - the cream rises to the top
+  - the month of
   - the more the merrier
+  - the point I am trying to make
   - the real McCoy
   - the real deal
   - the red carpet treatment
   - the same old story
   - the straw that broke the camel's back
   - there is no accounting for taste
+  - therefore
   - thick as a brick
   - thick as thieves
   - thin as a rail
@@ -719,6 +790,7 @@ tokens:
   - tighter than a drum
   - time and time again
   - time is of the essence
+  - time period
   - tip of the iceberg
   - tired but happy
   - to coin a phrase
@@ -730,8 +802,10 @@ tokens:
   - too good to be true
   - too hot to handle
   - too numerous to mention
+  - took advantage of
   - touch with a ten foot pole
   - tough as nails
+  - transpire
   - trial and error
   - trials and tribulations
   - tried and true
@@ -739,6 +813,7 @@ tokens:
   - twist of fate
   - two cents worth
   - two peas in a pod
+  - type of
   - ugly as sin
   - under the counter
   - under the gun
@@ -752,8 +827,10 @@ tokens:
   - upset the applecart
   - vain attempt
   - vain effort
+  - validate
   - vanquish the enemy
   - various and sundry
+  - various different
   - vested interest
   - viable alternative
   - waiting for the other shoe to drop
@@ -771,6 +848,7 @@ tokens:
   - week of Sundays
   - went belly up
   - wet behind the ears
+  - what I mean to say is
   - what goes around comes around
   - what you see is what you get
   - when it rains, it pours
@@ -788,6 +866,7 @@ tokens:
   - wisdom of the ages
   - wise as an owl
   - with any luck
+  - with respect to
   - wolf at the door
   - wool pulled over our eyes
   - words fail me

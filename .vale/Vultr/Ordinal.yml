@@ -5,7 +5,6 @@
 extends: existence
 message: "Don't add '-ly' to an ordinal number. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://docs.microsoft.com/en-us/style-guide/numbers
 level: error
 ignorecase: true
 action:

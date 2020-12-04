@@ -1,3 +1,3 @@
-[L|l]inode
 [D|d]igital[O|o]cean
-[W|w]ithy
+[L|l]inode
+(AWS|aws)

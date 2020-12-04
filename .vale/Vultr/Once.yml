@@ -7,9 +7,8 @@
 # 'Once' is frequently misused when the author means 'after'.
 #
 extends: existence
-message: "Verify you've used 'once' for counting (Run a job once...) and 'after' for a sequence (Run this job after...). "
+message: "Verify you have used 'once' if counting (Run the job once...) and 'after' if describing a sequence of events (After running the job...). "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language
 level: suggestion
 ignorecase: true
 tokens:

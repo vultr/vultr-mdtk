@@ -2,14 +2,13 @@
 # The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 # https://creativecommons.org/licenses/by/4.0/
 #
-# Simple check for 'you'. 
-# TODO: Only detect at the beginning of the sentence.
+# Simple check for an optional 'you' statements at the beginning of a sentence. 
 #
 extends: existence
-message: "Consider removing '%s'. It's common to omit 'you' in documentation. For example, replace 'You will edit the file.' with 'Edit the file.'"
+message: "Consider removing '%s'. It's common to use an implied subject for instructional steps. For example, replace 'You will edit the file.' with 'Edit the file.' "
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_an_Implied_Subject
 level: warning
-ignorecase: true
+# ignorecase: true
 tokens:
-  - you can
-  - you will
+  - 'You can'
+  - 'You should'

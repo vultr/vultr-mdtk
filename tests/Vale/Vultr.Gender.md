@@ -2,7 +2,7 @@
 
     Vultr.Gender
 
-## Suggestion
+## Warning
 
 He finished the MySQL installation.
 Please talk to him.

@@ -5,7 +5,6 @@
 extends: existence
 message: "Don't put a period at the end of a heading. Numbered steps should have a single space after the period, followed by the heading text. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://developers.google.com/style/capitalization#capitalization-in-titles-and-headings
 level: warning
 nonword: true
 scope: heading

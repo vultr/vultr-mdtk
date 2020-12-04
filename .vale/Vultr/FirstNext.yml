@@ -14,3 +14,5 @@ tokens:
   - '([a-z][.?!]\s|^)First(ly|\s|,)'
   - '([a-z][.?!]\s|^)Next(\s|,)'
   - '([a-z][.?!]\s|^)Last(ly|\s|,)'
+  - '([a-z][.?!]\s|^)Finally(\s|,)'
+

@@ -5,7 +5,6 @@
 extends: occurrence
 message: "Consider using sentences of 40 words or less to improve readability. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language
 level: warning
 scope: sentence
 max: 40

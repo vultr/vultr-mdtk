@@ -4,4 +4,6 @@
 
 ## Warning
 
-Use MySQL should you wish to install a database.
+came to a realization
+came to an abrupt end
+carry out an evaluation of

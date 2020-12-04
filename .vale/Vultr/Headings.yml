@@ -5,11 +5,11 @@
 extends: capitalization
 message: "Headings should use title case. Vultr follows the Chicago Manual of Style.  "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://capitalizemytitle.com/style/chicago
 level: error
 scope: heading
 match: $title
 style: Chicago
 exceptions:
   - macOS
+  - cPanel
 

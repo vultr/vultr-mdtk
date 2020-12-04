@@ -11,7 +11,6 @@
 extends: substitution
 message: "Use the US spelling '%s' instead of the British '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://about.gitlab.com/handbook/communication/#top-misused-terms
 level: error
 ignorecase: true
 action:

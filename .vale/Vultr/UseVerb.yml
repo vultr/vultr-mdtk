@@ -5,14 +5,13 @@
 # "setup" is a noun. "set up" is a verb.
 #
 extends: substitution
-message: "Use '%s', not '%s'.  The noun is 'setup', and the verb is 'set up'. "
+message: "Use the verb '%s' instead of the noun '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://example.com
 level: error
 ignorecase: true
-pos: 'setup/VB|set/NN up/\w+'
+pos: 'setup/VB\w+|login/VB\w+'
 action:
   name: replace
 swap:
   setup: set up
-  set up: setup
+  login: log in

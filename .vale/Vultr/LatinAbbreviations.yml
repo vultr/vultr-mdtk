@@ -11,7 +11,6 @@
 extends: substitution
 message: "Use '%s' instead of '%s', or consider rewriting the sentence. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://docs.gitlab.com/ee/development/documentation/styleguide.html#language
 level: warning
 nonword: true
 ignorecase: true

@@ -8,8 +8,7 @@
 # https://github.com/errata-ai/write-good/blob/master/LICENSE
 extends: existence
 message: "Consider removing '%s'. "
-link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://docs.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences
+link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Strong_Action_Statements
 level: warning
 ignorecase: true
 action:
@@ -25,7 +24,6 @@ tokens:
   - alternatively
   - angrily
   - anxiously
-  - approximately
   - arrogantly
   - awkwardly
   - badly
