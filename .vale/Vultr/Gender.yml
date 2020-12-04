@@ -4,8 +4,7 @@
 # https://github.com/errata-ai/proselint/blob/master/LICENSE
 extends: substitution
 message: "Consider using '%s' instead of '%s'. "
-link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://example.com
+link: https://www.vultr.com/docs/vultr-docs-style-guide#Write_in_Second_Person
 level: warning
 ignorecase: true
 action:

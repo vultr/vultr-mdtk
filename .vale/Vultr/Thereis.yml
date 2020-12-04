@@ -5,7 +5,6 @@
 extends: existence
 message: "Sentences that begin with '%s' tend to be wordy. Consider rephrasing this sentence more concisely. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://example.com
 level: warning
 ignorecase: false
 raw:

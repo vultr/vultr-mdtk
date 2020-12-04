@@ -5,7 +5,6 @@
 extends: conditional
 message: "Spell out '%s', if it's an unfamiliar acronym to the audience. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://about.gitlab.com/handbook/marketing/growth-marketing/content/editorial-team/#acronyms
 level: warning
 ignorecase: false
 # Ensures that the existence of 'first' implies the existence of 'second'.

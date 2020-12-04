@@ -12,7 +12,6 @@
 extends: substitution
 message: "Please consider using '%s' instead of '%s'. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://about.gitlab.com/handbook/communication/#top-misused-terms
 level: warning
 ignorecase: true
 action:

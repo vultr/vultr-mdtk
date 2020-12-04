@@ -76,7 +76,7 @@ $compare = Compare-Object $compareExpected $compareTest
 
 If ($compare) { 
     Write-Host "`nDifferences found. See:" $fileReport
-    $compare | foreach  { 
+    $compare | ForEach-Object  { 
         if ($_.sideindicator -eq '<=') {
             $_.sideindicator = $fileExpected
         }
@@ -85,7 +85,7 @@ If ($compare) {
             $_.sideindicator = $fileTest
         }
     }
-    $compare | select @{l='Value';e={$_.InputObject}} | Out-File $fileReport
+    $compare | Select-Object @{l='Value';e={$_.InputObject}} | Out-File $fileReport
     Get-Content -Path $fileReport
     # $Compare | select @{l='Value';e={$_.InputObject}},@{l='File';e={$_.SideIndicator}} | Write-Host
 } Else {

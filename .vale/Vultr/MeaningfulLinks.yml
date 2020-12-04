@@ -11,7 +11,6 @@
 extends: existence
 message: "Improve SEO and accessibility by rewriting '%s' in the link text. "
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-# link: https://about.gitlab.com/handbook/communication/#writing-style-guidelines
 level: warning
 scope: link
 ignorecase: true
