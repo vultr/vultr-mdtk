@@ -1,0 +1,15 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+#### Thank you to @jdkato for supplying the regex that had us stumped. https://github.com/jdkato
+#
+# Avoid using Let's. 
+#
+extends: substitution
+message: "Please avoid using \"Let's\", unless referring to Let's Encrypt. "
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: warning
+ignorecase: false
+swap:
+  '[Ll]et''s \w+': Let's Encrypt
