@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "Don't add '-ly' to an ordinal number. "
+message: "Don't use adverb forms of numbered steps. Please rewrite the sentnece."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: true
@@ -16,3 +16,4 @@ tokens:
   - firstly
   - secondly
   - thirdly
+  - lastly

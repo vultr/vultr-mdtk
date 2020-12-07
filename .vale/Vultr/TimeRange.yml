@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "Use 'to' instead of a dash in time ranges. "
+message: "Use 'to' instead of a dash in time ranges. For example: \"The schedule runs from 10:00 a.m. to 2:00 p.m. each day.\""
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 nonword: true

@@ -3,10 +3,10 @@
 # https://creativecommons.org/licenses/by/4.0/
 #
 extends: capitalization
-message: "Headings should use title case. Vultr follows the Chicago Manual of Style.  "
+message: "Heading level two should use title case. Vultr uses the Chicago Manual of Style."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
-scope: heading
+scope: heading.h2
 match: $title
 style: Chicago
 exceptions:

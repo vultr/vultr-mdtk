@@ -10,7 +10,7 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: substitution
-message: "Please consider using '%s' instead of '%s'. "
+message: "Please consider using %s instead of '%s.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: true

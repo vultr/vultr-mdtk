@@ -5,7 +5,7 @@
 # 'Since' is frequently misused when the author means 'because'.
 #
 extends: existence
-message: "Verify you've used 'since' to refer to time (It's been an hour since...), and 'because' to refer to cause. (They did it because...) "
+message: "Please verify that you've used 'since' to refer to time and 'because' for the reason. For example, \"It's been an hour since he left, because he had a flat tire.\""
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: suggestion
 ignorecase: true

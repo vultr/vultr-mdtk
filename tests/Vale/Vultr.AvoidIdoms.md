@@ -13,4 +13,3 @@ for the purpose of
 have a tendency to
 in a manner of speaking
 in a very real sense
-

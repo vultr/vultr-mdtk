@@ -7,7 +7,7 @@
 # Avoid using Let's. 
 #
 extends: substitution
-message: "Please avoid using \"Let's\", unless referring to Let's Encrypt. "
+message: "Please avoid using 'Let's', unless referring to Let's Encrypt."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: false

@@ -5,7 +5,7 @@
 # Vultr does not use fenced codeblocks. Indent code by four spaces. Do not use tabs.
 #
 extends: existence
-message: "Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks. "
+message: "Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks."
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Code_Blocks
 level: error
 nonword: true

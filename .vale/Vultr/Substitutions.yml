@@ -5,7 +5,7 @@
 #
 # For substitutions only flagged as warnings, see SubstitutionWarning.yml
 extends: substitution
-message: "Use '%s' instead of '%s'. "
+message: "Use %s instead of '%s.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: true

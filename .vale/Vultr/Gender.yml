@@ -3,7 +3,7 @@
 # used according to terms described in the BSD 3-Clause License.
 # https://github.com/errata-ai/proselint/blob/master/LICENSE
 extends: substitution
-message: "Consider using '%s' instead of '%s'. "
+message: "Consider using %s instead of '%s.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Write_in_Second_Person
 level: warning
 ignorecase: true

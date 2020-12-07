@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
 extends: occurrence
-message: "Consider using sentences of 40 words or less to improve readability. "
+message: "Consider using sentences of 40 words or less to improve readability."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 scope: sentence

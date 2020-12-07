@@ -5,7 +5,7 @@
 # "setup" is a noun. "set up" is a verb.
 #
 extends: substitution
-message: "Use the verb '%s' instead of the noun '%s'. "
+message: "Use the verb %s instead of the noun '%s.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: true
