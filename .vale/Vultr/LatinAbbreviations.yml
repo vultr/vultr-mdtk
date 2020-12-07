@@ -9,7 +9,7 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: substitution
-message: "Use '%s' instead of '%s', or consider rewriting the sentence. "
+message: "Please use %s instead of '%s', or consider rewriting the sentence."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 nonword: true

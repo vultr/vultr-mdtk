@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "In most cases, documentation should use active voice. '%s' looks like passive voice. "
+message: "In most cases, documentation uses active voice. '%s' looks like passive voice."
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Active_Voice
 level: warning
 ignorecase: true

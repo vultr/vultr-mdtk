@@ -3,7 +3,7 @@
 # https://creativecommons.org/licenses/by/4.0/
 #
 extends: existence
-message: "Avoid frequent use of blockquotes. Reserve blockquotes for important notes that require high visibility. "
+message: "Avoid frequent use of blockquotes. Reserve blockquotes for important notes that require high visibility."
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Blockquotes
 level: suggestion
 nonword: true

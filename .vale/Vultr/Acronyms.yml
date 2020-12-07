@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
 extends: conditional
-message: "Spell out '%s', if it's an unfamiliar acronym to the audience. "
+message: "Please define acronyms like '%s' before use. For example: \"Deploy your Virtual Private Server (VPS) instance at Vultr.\""
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: false
@@ -26,10 +26,12 @@ exceptions:
   - CSS
   - CSV
   - DAST
+  - DHCP
   - DNS
   - EKS
   - EULA
   - FAQ
+  - FCOS
   - FOSS
   - FTP
   - GCC

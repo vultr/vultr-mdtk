@@ -5,12 +5,12 @@
 # Vultr does not use reference-style links.
 #
 extends: existence
-message: "Use inline links. Please do not use reference-style links. "
+message: "Please do not use reference-style links. Vultr prefers inline links."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 nonword: true
 scope: raw
 tokens:
-  - '\]\s'
+#  - '\]\s'
   - '\]:'
-  - '\]\.'
+#  - '\]\.'

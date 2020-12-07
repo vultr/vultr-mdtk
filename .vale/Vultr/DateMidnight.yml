@@ -3,7 +3,7 @@
 # used according to terms described in the BSD 3-Clause License.
 # https://github.com/errata-ai/proselint/blob/master/LICENSE
 extends: existence
-message: "Use 'midnight' or 'noon'. "
+message: "Use 'midnight' or 'noon.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: true

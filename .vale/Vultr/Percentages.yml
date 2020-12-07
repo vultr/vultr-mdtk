@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "Use a numeral plus the units. "
+message: "Use a numeral plus the units. For example, use '20 percent' instead of 'twenty percent.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 nonword: true

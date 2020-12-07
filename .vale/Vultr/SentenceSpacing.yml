@@ -12,7 +12,7 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: existence
-message: "'%s' must contain one and only one space. "
+message: "'%s' must contain one and only one space."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 nonword: true

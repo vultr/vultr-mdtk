@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: substitution
-message: "Use '%s' instead of '%s'. "
+message: "Use %s instead of '%s.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: true

@@ -3,7 +3,7 @@
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
-message: "In general, don't use an ellipsis. "
+message: "Ellipsis are seldom used in documentation."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 nonword: true

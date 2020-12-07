@@ -3,7 +3,7 @@
 # used according to terms described in the MIT license.
 # https://github.com/errata-ai/write-good/blob/master/LICENSE
 extends: existence
-message: "Please avoid starting a sentence with '%s'. "
+message: "Please avoid '%s' at the beginning of a sentence."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: false

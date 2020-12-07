@@ -7,7 +7,7 @@
 # Avoid Idioms, Clichés, Jargon, Slang, and Euphemisms
 # 
 extends: existence
-message: "Avoid '%s' when writing documentation intended for an international audience. "
+message: "Vultr serves an international audience that may be confused by '%s.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Simple_Language
 level: warning
 ignorecase: true
