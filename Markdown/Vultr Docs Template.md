@@ -2,7 +2,7 @@
 
 A short introduction of one or two paragraphs to orient the reader is appropriate. Describe what the reader should expect to learn from the documentation.
 
-The first heading of a Vultr Doc Markdown file is H2 (`##`), because H1 is a separate field in the Vultr publishing system. The default markdownlint rule MD041 requires H1 as the first heading. Vultr Markdown Toolkit suppresses this warning in the `.code-workspace` file.
+The first heading of a Vultr Doc Markdown file is H2 (`##`), because H1 is a separate field in the Vultr publishing system. The [Vultr Markdown Toolkit](https://github.com/vultr/vultr-mdtk) suppresses warnings for Markdown files that lack a H1 heading to avoid confusion.
 
 ## Prerequisites
 
@@ -15,27 +15,28 @@ Describe the prerequisite environment or knowledge needed to perform the steps i
 
 ## 1. First Section
 
-Break your documentation into logical sections. Use H2 (`##`) for major section headers. Headings should use title case, and Vultr follows the [Chicago Manual of Style](https://capitalizemytitle.com/style/chicago). When describing a series of steps, preface the steps with step numbers in this format:
+Break your documentation into logical sections. Replace `## 1. First Section` with your step number and section title. Use H2 (`##`) for major section headers. Headings should use title case, and Vultr follows the [Chicago Manual of Style](https://capitalizemytitle.com/style/chicago). When describing a series of major steps, the section headers should include a step number, followed by a period, a space, and the section title, as shown in this example:
 
     ## 1. Step One
 
     ## 2. Step Two
 
-Indent code blocks with four spaces. **Vultr doesn't use triple-backticks to fence code blocks.** Preface command lines with a prompt symbol. Linux commands run as root use a hash prompt. Preface command run as a non-root with a dollar sign.
+* Indent your code blocks with four spaces. **Vultr does not use triple-backticks to fence code blocks.**
+* Preface command lines with a prompt symbol. Leave a space between the prompt and the command.
 
-A Linux root user performing `ls`:
+Linux or macOS commands that need to run as root should use a hash prompt.
 
     # ls
 
-A Linux non-root user performing `ls`:
+Commands run as a non-root user should use a dollar sign.
 
     $ ls
 
-A PowerShell user performing `ls`:
+Windows PowerShell commands use `PS C:\>`.
 
     PS C:\> ls
 
-A Windows CMD user performing `dir`:
+Windows CMD commands use `C:\>`.
 
     C:\> dir
 
