@@ -71,7 +71,8 @@ uncheck
 unselect
 unserializes?
 venv
-(Vultr|vultr-mdtk)
+[V|v]ultr
+vultr-mdtk
 Virtualmin
 Webmin
 [W|w]ebserver
