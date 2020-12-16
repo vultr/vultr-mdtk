@@ -27,15 +27,14 @@ The Markdown Toolkit toolkit enhances Visual Studio Code with productivity tools
 See the [code-server](https://www.vultr.com/docs/vultr-markdown-toolkit-with-codeserver) installation instructions in the Vultr documentation library.
 
 ## Key Project Files and Folders
-
-* `code-server.code-workspace` : [Workspace for code-server](code-server.code-workspace)
-* `vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](vultr-mdtk.code-workspace)
-* `tests/` : [Test suite](tests) for Vultr styles. See [README.md](tests/README.md).
-* `.vale/` : [Vale style rules](.vale)
-* `.vale.ini` : [Vale configuration file](.vale.ini)
 * `Markdown/` : [Working folder](Markdown)
 * `Markdown/Vultr Docs Template.md` : [A template for Vultr Docs authors](Markdown/Vultr%20Docs%20Template.md)
+* `styles/` : [Vale style rules](.vale)
+* `tests/` : [Test suite](tests) for Vultr styles. See [README.md](tests/README.md).
+* `.vale.ini` : [Vale configuration file](.vale.ini)
+* `code-server.code-workspace` : [Workspace for code-server](code-server.code-workspace)
+* `vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](vultr-mdtk.code-workspace)
 
 ## About the Vultr Style Guide and Vale
 
-This toolkit uses Vale and markdownlint to catch common writing issues. Please review all suggestions, warnings, and errors before submitting an article to Vultr Docs. These rules are not infallible. They may produce false-positives or fail to detect issues. The editors at Vultr do not automatically reject or accept articles based solely on the Markdown Toolkit reports.
+This toolkit uses **Vale** and **markdownlint** to catch common writing issues. Please review all suggestions, warnings, and errors before submitting an article to Vultr Docs. These rules are not infallible. They may produce false-positives or fail to detect issues. The editors at Vultr do not automatically reject or accept articles based solely on the Markdown Toolkit reports.
