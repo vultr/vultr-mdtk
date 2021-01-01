@@ -1,0 +1,34 @@
+site_name: Vultr Markdown Toolkit
+site_description: Authoring Tools for Vultr Docs
+site_author: Vultr.com
+copyright: '&copy; <a href="https://www.vultr.com">Vultr.com</a> - <a href="https://github.com/vultr/vultr-mdtk/blob/main/LICENSE.md">Creative Commons Attribution-ShareAlike 4.0 International</a>'
+nav:
+    - 'About the Markdown Toolkit': 'index.md'
+docs_dir: docs
+remote_branch: gh-pages
+use_directory_urls: true
+dev_addr: 127.0.0.1:8000
+theme:
+  name: material
+  favicon: images/signet__on-dark-blue-bg.png
+  icon:
+    logo: images/logo__on-dark.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc:
+      permalink: true
+      toc_depth: 3    
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - header.autohide
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/vultr
+    - icon: fontawesome/brands/github
+      link: https://github.com/vultr
