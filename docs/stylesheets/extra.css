@@ -1,7 +1,11 @@
 :root {
     --md-primary-fg-color:        #102147;
   
-}
+  }
 * {
     --md-typeset-a-color:         #007bfc;
-}
+  }
+
+[data-md-color-scheme="slate"] {
+    --md-hue: 220; /* [0, 360] */
+  }
