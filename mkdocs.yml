@@ -21,8 +21,7 @@ theme:
   icon:
     repo: fontawesome/brands/github  
   palette:
-  palette:
-    scheme: default
+    scheme: preference
   features:
     - navigation.instant
     - navigation.tabs
