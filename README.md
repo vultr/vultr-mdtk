@@ -1,40 +1,23 @@
 # Vultr Markdown Toolkit
 
-## Beta Preview Release
+Learn more about the Vultr Markdown Toolkit at <https://vultr.github.io/vultr-mdtk>.
 
-This is preview release. Please contact [David Finster](mailto:dfinster@vultr.com?subject=Vultr%20Markdown%20Toolkit) with comments and suggestions.
+To build and test this documentation locally:
 
-## Introduction
+1. Install MkDocs.
+2. Install the Material theme.
+3. Switch to the `mkdocs` branch of this repo.
+4. Build the docs:
 
-The Markdown Toolkit toolkit enhances Visual Studio Code with productivity tools and Vultr Style Guide linting. Authors who write for [Vultr Docs](https://www.vultr.com/docs/) should consider using this toolkit to find common writing problems before [submitting their articles](https://my.vultr.com/docs/submit/) for review. The toolkit also runs under code-server for remote editing.
+      $ mkdocs build
 
-## Visual Studio Code Installation
+5. Serve the docs to <https://127.0.0.1:8000>
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/).
-1. Install [Vale](https://docs.errata.ai/vale/install).
-1. Install the required extensions:
+        $ mkdocs serve
 
-   * [Vale Extension](https://marketplace.visualstudio.com/items?itemName=errata-ai.vale-server)
-   * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-   * [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+To deploy to GitHub:
 
-1. Clone this repository to a local folder.
-1. Open `vultr-mdtk.code-workspace` with Visual Studio Code.
-1. Edit your Markdown files in the `Markdown/` folder.
+1. Switch to the `mkdocs` branch of this repo.
+2. Deploy the docs to the `gh-pages` branch:
 
-## Code-Server Installation
-
-See the [code-server](https://www.vultr.com/docs/vultr-markdown-toolkit-with-codeserver) installation instructions in the Vultr documentation library.
-
-## Key Project Files and Folders
-* `Markdown/` : [Working folder](Markdown)
-* `Markdown/Vultr Docs Template.md` : [A template for Vultr Docs authors](Markdown/Vultr%20Docs%20Template.md)
-* `styles/` : [Vale style rules](.vale)
-* `tests/` : [Test suite](tests) for Vultr styles. See [README.md](tests/README.md).
-* `.vale.ini` : [Vale configuration file](.vale.ini)
-* `code-server.code-workspace` : [Workspace for code-server](code-server.code-workspace)
-* `vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](vultr-mdtk.code-workspace)
-
-## About the Vultr Style Guide and Vale
-
-This toolkit uses **Vale** and **markdownlint** to catch common writing issues. Please review all suggestions, warnings, and errors before submitting an article to Vultr Docs. These rules are not infallible. They may produce false-positives or fail to detect issues. The editors at Vultr do not automatically reject or accept articles based solely on the Markdown Toolkit reports.
+      $ mkdocs gh-deploy

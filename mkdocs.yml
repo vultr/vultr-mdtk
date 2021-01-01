@@ -1,18 +1,28 @@
 site_name: Vultr Markdown Toolkit
 site_description: Authoring Tools for Vultr Docs
+repo_url: https://github.com/vultr/vultr-mdtk
+repo_name: vultr/vultr-mdtk
+edit_uri: ""
 site_author: Vultr.com
-copyright: '&copy; <a href="https://www.vultr.com">Vultr.com</a> - <a href="https://github.com/vultr/vultr-mdtk/blob/main/LICENSE.md">Creative Commons Attribution-ShareAlike 4.0 International</a>'
+copyright: '&copy; <a href="https://www.vultr.com">Vultr.com</a>'
 nav:
     - 'About the Markdown Toolkit': 'index.md'
+    - 'Vale Tests': 'tests.md'
+    - 'About Vultr': 'https://www.vultr.com'
+    - 'Deploy a Cloud Server': 'https://my.vultr.com'
 docs_dir: docs
 remote_branch: gh-pages
 use_directory_urls: true
 dev_addr: 127.0.0.1:8000
 theme:
   name: material
-  favicon: images/signet__on-dark-blue-bg.png
+  favicon: assets/images/signet__on-dark-blue-bg.png
+  logo: assets/images/signet__on-dark.png
   icon:
-    logo: images/logo__on-dark.png
+    repo: fontawesome/brands/github  
+  palette:
+  palette:
+    scheme: default
   features:
     - navigation.instant
     - navigation.tabs
@@ -25,10 +35,11 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
-    - header.autohide
 extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/vultr
     - icon: fontawesome/brands/github
       link: https://github.com/vultr
+extra_css:
+  - stylesheets/extra.css
