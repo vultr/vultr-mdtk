@@ -1,3 +1,3 @@
 # Vultr Markdown Toolkit
 
-See the [Markdown Toolkit documentation](https://vultr.github.io/vultr-mdtk/).
+See more [information about this repository](https://vultr.github.io/vultr-mdtk/) and its [license](https://vultr.github.io/vultr-mdtk/license/).
