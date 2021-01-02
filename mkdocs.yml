@@ -8,6 +8,7 @@ copyright: '&copy; <a href="https://www.vultr.com">Vultr.com</a>'
 nav:
     - 'About the Markdown Toolkit': 'index.md'
     - 'Vale Tests': 'tests.md'
+    - 'License': license.md
     - 'About Vultr': 'https://www.vultr.com'
     - 'Deploy a Cloud Server': 'https://my.vultr.com'
 docs_dir: docs

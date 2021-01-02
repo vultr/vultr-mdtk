@@ -1,17 +1,17 @@
 # Vultr Markdown Toolkit
 
-The starter docs for the MarkDown Toolkit are:
+The GitHub Pages for this repository are:
 
-* Stored in the repo on the `mkdocs` branch
-* Published as GitHub Pages on the `gh-pages` branch
+* Stored in the repoository on the `mkdocs` branch
+* Published on the `gh-pages` branch
 * Browsable at <https://vultr.github.io/vultr-mdtk>
 
-## How to Update Docs
+## How to Update GitHub Pages
 
-To build and test this documentation locally:
+To build and test the GitHub Pages locally:
 
-1. Install MkDocs.
-2. Install the Material theme.
+1. Install [MkDocs](https://www.mkdocs.org/).
+2. Install the [Material theme](https://squidfunk.github.io/mkdocs-material/).
 3. Switch to the `mkdocs` branch of this repo.
 4. Build the docs:
 
