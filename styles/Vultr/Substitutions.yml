@@ -33,6 +33,7 @@ swap:
   config: configuration
   ## dashboard: Customer Portal
   datacenter(?:s)?: location
+  data center(?:s)?: location
   ## disabled?: turn off|off
   file name: filename
   functionality: capability|feature
