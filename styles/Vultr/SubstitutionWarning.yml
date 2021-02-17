@@ -17,12 +17,8 @@ ignorecase: true
 action:
   name: replace
 swap:
-  blacklist(?:ed|ing|s)?: deny|denylist
   distro: distribution
   info: information
   repo: repository
   php: PHP
   mariadb: MariaDB 
-  master: primary|main
-  slave: secondary|replica|subordinate  
-  whitelist(?:ed|ing|s)?: allow|allowlist

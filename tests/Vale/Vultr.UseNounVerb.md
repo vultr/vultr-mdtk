@@ -1,7 +1,13 @@
 # Test Case
 
+These rules are under construction and do not work 100% reliably yet.
+
     Vultr.UseNoun
     Vultr.UseVerb
+
+## Rule Misfire Examples
+
+SSH to your server and log in to MySQL as a root user.
 
 ## Error
 
