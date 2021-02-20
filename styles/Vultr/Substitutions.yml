@@ -36,7 +36,7 @@ swap:
   data center(?:s)?: location
   ## disabled?: turn off|off
   file name: filename
-  functionality: capability|feature
+  # functionality: capability|feature
   grayed-out: unavailable
   HTTPs: HTTPS
   ingest: import|load

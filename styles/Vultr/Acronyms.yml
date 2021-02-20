@@ -58,6 +58,7 @@ exceptions:
   - JSON
   - LDAP
   - LDAPS
+  - LEMP
   - LESS
   - LFS
   - LRU
