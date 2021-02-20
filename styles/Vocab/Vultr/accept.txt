@@ -4,6 +4,7 @@ Ajenti
 Auditbeat
 autoupdate
 autoconfiguration
+Bitwarden
 [B|b]lockquotes?
 boolean
 bootable
@@ -23,6 +24,7 @@ fstab
 Functionbeat
 GitHub
 Heartbeat
+[H|h]ostname
 (HTML|html)
 (HTTPS|https)
 (HTTP|http)
@@ -34,6 +36,7 @@ Laravel
 Linux
 Let's Encrypt
 Logstash
+loopback
 [M|m]aria[D|d][B|b]
 [M|m]y[S|s][Q|q][L|l]
 markdownlint
@@ -50,6 +53,7 @@ Packetbeat
 (PDF|pdf)
 (PHP|php)
 Plesk
+Portainer
 Postgres
 proselint
 [R|r]epo
