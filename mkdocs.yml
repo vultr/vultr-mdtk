@@ -20,7 +20,7 @@ theme:
   favicon: assets/images/signet__on-dark-blue-bg.png
   logo: assets/images/signet__on-dark.png
   icon:
-    repo: fontawesome/brands/github  
+    repo: fontawesome/brands/github
   palette:
     scheme: preference
   features:
@@ -31,7 +31,7 @@ theme:
     - navigation.expand
     - toc:
       permalink: true
-      toc_depth: 3    
+      toc_depth: 3
     - toc.integrate
     - search.suggest
     - search.highlight

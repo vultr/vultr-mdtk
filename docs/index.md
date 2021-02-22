@@ -12,6 +12,12 @@ Vultr uses this as a helpful screening tool, but our editors don't accept or rej
 
 ## How to Install the Toolkit
 
+### Install with code-server
+
+See the [code-server installation instructions](code-server.md).
+
+### Install locally in Visual Studio Code
+
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
 1. Install [Vale](https://docs.errata.ai/vale/install).
 1. Install the required extensions:
