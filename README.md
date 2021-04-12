@@ -2,7 +2,7 @@
 
 ## Beta Preview Release
 
-This is a preview release. Please contact [David Finster](mailto:dfinster@vultr.com?subject=Vultr%20Markdown%20Toolkit) with comments and suggestions.
+This is a preview release.
 
 ## Introduction
 
