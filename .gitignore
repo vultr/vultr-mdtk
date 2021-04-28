@@ -1,5 +1,4 @@
 # Vultr's editors review document submissions here, and do not add them back to the repository.
-Vultr Docs
-Vultr Docs.code-workspace
-vale.exe
-.vale/Dev
+VDocs
+VDocs.code-workspace
+.DS_Store

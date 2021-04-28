@@ -1,5 +1,5 @@
 ---
-# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: substitution
@@ -161,7 +161,7 @@ swap:
   for the duration of: during
   forfeit: resign|give up
   formulate: make|create
-  frequently: often
+  # frequently: often
   gather together: gather
   (?:give|gave) rise to: lead to
   has the ability to: can

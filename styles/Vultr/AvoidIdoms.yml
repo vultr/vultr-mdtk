@@ -1,11 +1,11 @@
 ---
-# Portions of this toolkit are modifications based 
-# on the write-good style rules and used according 
+# Portions of this toolkit are modifications based
+# on the write-good style rules and used according
 # to terms described in the MIT license.
 # https://github.com/errata-ai/write-good/blob/master/LICENSE
-# 
+#
 # Avoid Idioms, Clichés, Jargon, Slang, and Euphemisms
-# 
+#
 extends: existence
 message: "Vultr serves an international audience that may be confused by '%s.'"
 link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Simple_Language
@@ -369,7 +369,7 @@ tokens:
   - in a very real sense
   - in a word
   - in accordance with
-  - in addition
+  # - in addition
   - in all likelihood
   - in excess of
   - in hot water
@@ -769,7 +769,7 @@ tokens:
   - the same old story
   - the straw that broke the camel's back
   - there is no accounting for taste
-  - therefore
+  # - therefore
   - thick as a brick
   - thick as thieves
   - thin as a rail
