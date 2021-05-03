@@ -1,9 +1,9 @@
 ---
-# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and
 # used according to terms described in the Creative Commons 4.0 Attribution International License.
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 #
-# Portions of this toolkit are modifications based on the write-good style rules and 
+# Portions of this toolkit are modifications based on the write-good style rules and
 # used according to terms described in the MIT license.
 # https://github.com/errata-ai/write-good/blob/master/LICENSE
 extends: existence
@@ -67,7 +67,7 @@ tokens:
   - crumbly
   - cuddly
   - curiously
-  - daily
+#  - daily
   - daintily
   - daringly
   - deadly
@@ -209,7 +209,7 @@ tokens:
   - occasionally
   - oddly
   - offensively
-  - only
+#  - only
   - openly
   - optimistically
   - overconfidently
