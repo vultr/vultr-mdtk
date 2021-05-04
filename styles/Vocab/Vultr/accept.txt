@@ -6,6 +6,7 @@ autoupdate
 autoconfiguration
 Bitwarden
 [B|b]lockquotes?
+Bludit
 boolean
 bootable
 Bukkit
@@ -29,6 +30,7 @@ Heartbeat
 (HTTPS|https)
 (HTTP|http)
 IP
+Joomla
 Journalbeat
 Kibana
 Koha
@@ -39,6 +41,7 @@ Logstash
 loopback
 [M|m]aria[D|d][B|b]
 [M|m]y[S|s][Q|q][L|l]
+Magento
 markdownlint
 Metricbeat
 Minecraft
