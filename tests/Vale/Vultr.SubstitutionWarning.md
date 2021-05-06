@@ -9,6 +9,7 @@ Get the info.
 Clone the repo.
 Start the mariadb server.
 The website uses php.
+
 ## Correct
 
 Download the distribution.

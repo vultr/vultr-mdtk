@@ -1,0 +1,16 @@
+---
+# Suggestion: Vultr.Inclusive
+#
+# Suggests inclusive term alternatives.
+extends: substitution
+message: "Please consider using %s instead of '%s.'"
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: suggestion
+ignorecase: true
+action:
+  name: replace
+swap:
+  blacklist(?:ed|ing|s)?: deny|denylist
+  master: primary|main
+  slave: secondary|replica|subordinate
+  whitelist(?:ed|ing|s)?: allow|allowlist

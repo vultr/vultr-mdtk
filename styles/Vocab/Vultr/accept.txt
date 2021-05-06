@@ -10,6 +10,7 @@ Bludit
 boolean
 bootable
 Bukkit
+Caddy
 (Calibre|calibre)
 CapRover
 Certbot
