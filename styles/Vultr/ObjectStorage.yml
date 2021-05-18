@@ -1,0 +1,14 @@
+---
+# The Vultr Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# Do not use direct Object Storage Links.
+#
+extends: existence
+message: "Do not use direct Object Storage links."
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: error
+nonword: true
+scope: raw
+tokens:
+  - 'vultrobjects.com'
