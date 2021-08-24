@@ -19,7 +19,7 @@ Vultr uses this as an article screening tool, but it may produce false-positives
 
 * `Markdown/` : [Working folder](https://github.com/vultr/vultr-mdtk/tree/main/Markdown)
 * `Markdown/Vultr Docs Template.md` : [A template for Vultr Docs authors](https://github.com/vultr/vultr-mdtk/tree/main/Markdown/Vultr%20Docs%20Template.md)
-* `styles/` : [Vale style rules](https://github.com/vultr/vultr-mdtk/tree/main/.vale)
+* `styles/` : [Vale style rules](https://github.com/vultr/vultr-mdtk/tree/main/styles)
 * `tests/` : [Test suite](https://github.com/vultr/vultr-mdtk/tree/main/tests) for Vultr styles. See [README.md](https://github.com/vultr/vultr-mdtk/tree/main/tests/README.md).
 * `.vale.ini` : [Vale configuration file](https://github.com/vultr/vultr-mdtk/tree/main/.vale.ini)
 * `code-server.code-workspace` : [Workspace for code-server](https://github.com/vultr/vultr-mdtk/tree/main/code-server.code-workspace)
