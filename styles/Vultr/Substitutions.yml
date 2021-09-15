@@ -45,6 +45,7 @@ swap:
   mysql: MySQL
   # open source: open-source ## Haven't found a consensus on this term yet.
   ok: OK
+  performant: efficient|high-performance
   regex: regular expression
   sign into: sign in to
   synch: sync
