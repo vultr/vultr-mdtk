@@ -1,6 +1,7 @@
 [A|a]gentless
 Ajenti
 (Ansible|ansible)
+API
 Auditbeat
 autoupdate
 autoconfiguration
@@ -16,6 +17,7 @@ CapRover
 Certbot
 [C|c]onfig
 ctrl
+Cyberduck
 datacenter
 distro
 docx
@@ -26,6 +28,7 @@ Filebeat
 fstab
 Functionbeat
 GitHub
+Graylog
 Heartbeat
 [H|h]ostname
 (HTML|html)
@@ -36,6 +39,7 @@ Joomla
 Journalbeat
 Kibana
 Koha
+LAMP
 Laravel
 Linux
 Let's Encrypt
@@ -46,6 +50,7 @@ loopback
 Magento
 markdownlint
 Metricbeat
+middleware
 Minecraft
 MineOS
 Nano
@@ -67,20 +72,24 @@ proselint
 Redhat
 RHEL
 ruleset
+SilverStripe
 slaacctl
 slaacd
+SpamAssassin
 Streamlit
 subnet
 sudo
+Symfony
 systemd
 tablename
+Textpattern
 (TCP|tcp)
 timeframe
 [T|t]mux
 transpiling
 (UDP|udp)
-ufw
-uncomment
+(UFW|ufw)
+(U|u)ncomment
 uncheck
 [U|u]ncomparables?
 unselect
@@ -96,3 +105,4 @@ Winlogbeat
 WordPress
 yamllint
 (YAML|yaml)
+Zikula
