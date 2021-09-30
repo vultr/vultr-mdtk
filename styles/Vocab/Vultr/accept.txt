@@ -89,6 +89,7 @@ timeframe
 transpiling
 (UDP|udp)
 (UFW|ufw)
+(U|u)mami
 (U|u)ncomment
 uncheck
 [U|u]ncomparables?
