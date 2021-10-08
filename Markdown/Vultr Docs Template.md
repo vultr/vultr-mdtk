@@ -4,11 +4,11 @@ You should follow this template and [Vultr's style guide](https://www.vultr.com/
 
 The introduction section is a short description of the article and what the reader should expect to learn. You should write in the second person and avoid promotional hype or advocacy. Vultr often receives and rejects articles that start like this:
 
-    LAMP is a world-changing open-source web development stack consisting of Linux, Apache, MySQL or MariaDB, and PHP. LAMP is much better than other alternatives like LEMP because it uses Apache, the king of web servers. In this article, I will tell you how to install a LAMP stack on Debian, the ultimate Linux distribution for developers.
+> LAMP is a world-changing open-source web development stack consisting of Linux, Apache, MySQL or MariaDB, and PHP. LAMP is much better than other alternatives like LEMP because it uses Apache, the king of web servers. In this article, I will tell you how to install a LAMP stack on Debian, the ultimate Linux distribution for developers.
 
-That introduction is written in the first person and has gratuitous and misleading hype. Instead, please stick to the facts:
+That introduction is written in the first person and has gratuitous and misleading hype. Instead, please stick to the facts, like this:
 
-    LAMP is a popular open-source web development stack consisting of Linux, Apache, MySQL or MariaDB, and PHP. This guide explains how to install a LAMP stack on Debian.
+> LAMP is a popular open-source web development stack consisting of Linux, Apache, MySQL or MariaDB, and PHP. This guide explains how to install a LAMP stack on Debian.
 
 If you are writing an installation guide, please include more than the bare installation instructions. You should include code examples and post-installation security steps also.
 
