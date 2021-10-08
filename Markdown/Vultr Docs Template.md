@@ -51,7 +51,7 @@ If you need sub-sections, use Heading 3 as shown.
 
 This is a subsection of `2. Title of the Next Step`.
 
-## 3. Last Step
+## 3. Another Step
 
 This is the third section.
 
