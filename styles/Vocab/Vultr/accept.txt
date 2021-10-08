@@ -53,6 +53,7 @@ Metricbeat
 middleware
 Minecraft
 MineOS
+Nagios
 Nano
 ([N|n]gin[X|x]|NGINX)
 (nodejs|Node.js|NodeJS)
@@ -78,6 +79,7 @@ slaacd
 SpamAssassin
 Streamlit
 subnet
+Subrion
 sudo
 Symfony
 systemd
@@ -100,7 +102,6 @@ venv
 vultr-mdtk
 Virtualmin
 Webmin
-[W|w]ebserver
 wifi
 Winlogbeat
 WordPress
