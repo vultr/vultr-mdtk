@@ -226,9 +226,9 @@ swap:
   portion: part
   possess: own
   present time: now
-  previous: earlier
-  (?:previous|prior) to: before
-  previously: before
+  previous: before|earlier
+  (?:previous|prior) to: before|earlier
+  previously: before|earlier
   prior to: before
   prioritize: rank
   procure: buy
