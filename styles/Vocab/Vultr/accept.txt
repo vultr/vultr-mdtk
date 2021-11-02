@@ -1,6 +1,7 @@
 [A|a]gentless
 Ajenti
-(Ansible|ansible)
+allowlist
+Ansible
 API
 Auditbeat
 autoupdate
@@ -37,6 +38,7 @@ Heartbeat
 IP
 Joomla
 Journalbeat
+Kanban
 Kibana
 Koha
 LAMP
@@ -53,6 +55,7 @@ Metricbeat
 middleware
 Minecraft
 MineOS
+Mosquitto
 Nagios
 Nano
 ([N|n]gin[X|x]|NGINX)
@@ -60,6 +63,7 @@ Nano
 npm
 Ntop
 Ntopng
+Observium
 [O|o]doo
 [O|o]xymorons?
 Packetbeat
@@ -89,6 +93,7 @@ Textpattern
 timeframe
 [T|t]mux
 transpiling
+Trello
 (UDP|udp)
 (UFW|ufw)
 (U|u)mami
@@ -102,6 +107,7 @@ venv
 vultr-mdtk
 Virtualmin
 Webmin
+Wekan
 wifi
 Winlogbeat
 WordPress
