@@ -29,6 +29,7 @@ Filebeat
 fstab
 Functionbeat
 GitHub
+Grafana
 Graylog
 Heartbeat
 [H|h]ostname
@@ -101,10 +102,13 @@ Trello
 (U|u)mami
 (U|u)ncomment
 uncheck
+unencrypted
 [U|u]ncomparables?
 unselect
 unserializes?
+untrusted
 venv
+Vtiger
 [V|v]ultr
 vultr-mdtk
 Virtualmin
