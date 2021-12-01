@@ -29,8 +29,12 @@ Filebeat
 fstab
 Functionbeat
 GitHub
+Godotenv
+Gofiber
+Golang
 Grafana
 Graylog
+Gorm
 Heartbeat
 [H|h]ostname
 (HTML|html)
@@ -40,6 +44,7 @@ IP
 Joomla
 Journalbeat
 Kanban
+keypair
 Kibana
 Koha
 LAMP
@@ -107,6 +112,7 @@ unencrypted
 unselect
 unserializes?
 untrusted
+Validator
 venv
 Vtiger
 [V|v]ultr
