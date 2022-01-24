@@ -1,5 +1,6 @@
 [A|a]gentless
 Ajenti
+Akaunting
 allowlist
 Ansible
 API
@@ -38,8 +39,10 @@ Gorm
 Heartbeat
 [H|h]ostname
 (HTML|html)
+hstore
 (HTTPS|https)
 (HTTP|http)
+inodes
 IP
 Joomla
 Journalbeat
@@ -47,8 +50,10 @@ Kanban
 keypair
 Kibana
 Koha
+Konnectivity
 LAMP
 Laravel
+[L|l]eaderboard
 Linux
 Let's Encrypt
 Logstash
@@ -60,8 +65,10 @@ markdownlint
 Metricbeat
 middleware
 Minecraft
+Mineflayer
 MineOS
 Mosquitto
+Multicraft
 Nagios
 Nano
 ([N|n]gin[X|x]|NGINX)
@@ -70,9 +77,12 @@ Nano
 Ntop
 Ntopng
 Observium
+ondrej
 [O|o]doo
-[O|o]xymorons?
+Overviewer
+Owncast
 ownCloud
+[O|o]xymorons?
 Packetbeat
 [P|p]andoc
 (PDF|pdf)
@@ -88,6 +98,7 @@ ruleset
 SilverStripe
 slaacctl
 slaacd
+Softaculous
 SpamAssassin
 Streamlit
 subnet
@@ -119,10 +130,12 @@ Vtiger
 vultr-mdtk
 Virtualmin
 Webmin
+Webuzo
 Wekan
 wifi
 Winlogbeat
 WordPress
+Xfce
 yamllint
 (YAML|yaml)
 Zikula

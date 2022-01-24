@@ -20,5 +20,4 @@ swap:
   distro: distribution
   info: information
   repo: repository
-  php: PHP
   mariadb: MariaDB 
