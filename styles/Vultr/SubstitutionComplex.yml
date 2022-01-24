@@ -118,7 +118,7 @@ swap:
   designate: choose
   desire: want|wish
   despite the fact that: although
-  determine: decide|find
+  # determine: decide|find
   detrimental: bad|harmful
   disappear from sight: disappear
   disclose: share|tell
@@ -137,7 +137,7 @@ swap:
   emergency situation: emergency
   employ: use
   enclosed: inside|included
-  encounter: meet
+  # encounter: meet
   endeavor: try
   enumerate: count
   equitable: fair
@@ -206,7 +206,7 @@ swap:
   minimize: reduce
   mix together: mix
   modify: change
-  monitor: check|watch
+  # monitor: check|watch
   necessitate: cause
   nevertheless: however|still
   none at all: none
@@ -226,9 +226,9 @@ swap:
   portion: part
   possess: own
   present time: now
-  previous: before|earlier
-  (?:previous|prior) to: before|earlier
-  previously: before|earlier
+#  previous: before|earlier
+#  (?:previous|prior) to: before|earlier
+#  previously: before|earlier
   prior to: before
   prioritize: rank
   procure: buy
@@ -253,7 +253,7 @@ swap:
   there is no doubt but that: doubtless
   this day and age: this age
   this is a subject that: this subject
-  time (?:frame|period): time
+  # time (?:frame|period): time
   transmit: send
   under the provisions of: under
   until such time as: until
