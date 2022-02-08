@@ -1,9 +1,11 @@
+Abante
 [A|a]gentless
 Ajenti
 Akaunting
 allowlist
 Ansible
 API
+Asana
 Auditbeat
 autoupdate
 autoconfiguration
@@ -18,6 +20,8 @@ Caddy
 CapRover
 Certbot
 [C|c]onfig
+Cron
+crontab
 ctrl
 Cyberduck
 datacenter
@@ -27,6 +31,8 @@ Dokku
 Elasticsearch
 fdisk
 Filebeat
+Flarum
+Focalboard
 fstab
 Functionbeat
 GitHub
@@ -35,6 +41,7 @@ Gofiber
 Golang
 Grafana
 Graylog
+(grpc|gRPC)
 Gorm
 Heartbeat
 [H|h]ostname
@@ -51,6 +58,7 @@ keypair
 Kibana
 Koha
 Konnectivity
+Kubectl
 LAMP
 Laravel
 [L|l]eaderboard
@@ -70,6 +78,7 @@ MineOS
 Mosquitto
 Multicraft
 Nagios
+[N|n]amespace
 Nano
 ([N|n]gin[X|x]|NGINX)
 (nodejs|Node.js|NodeJS)
@@ -94,6 +103,7 @@ Postgres
 proselint
 Redhat
 RHEL
+Rsync
 ruleset
 SilverStripe
 slaacctl
@@ -111,6 +121,7 @@ Textpattern
 (TCP|tcp)
 timeframe
 [T|t]mux
+Traccar
 transpiling
 Trello
 (UDP|udp)
@@ -130,10 +141,13 @@ Vtiger
 vultr-mdtk
 Virtualmin
 Webmin
+webroot
+Webpack
 Webuzo
 Wekan
 wifi
 Winlogbeat
+WireGuard
 WordPress
 Xfce
 yamllint
