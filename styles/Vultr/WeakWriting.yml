@@ -5,7 +5,10 @@
 extends: existence
 message: "Sentences that begin with '%s' tend to be wordy. Consider rephrasing this sentence more concisely."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-level: suggestion
+level: warning
 ignorecase: false
 raw:
-  - '(?:[;-]\s)There\s(is|are)|\bThere\s(is|are)\b|\bIt is\b'
+  - '(?:[;-]\s)There\s(is|are|were)|\bThere\s(is|are|were)\b|\bIt is\b'
+#  - quite
+#  - very
+#  - extremely

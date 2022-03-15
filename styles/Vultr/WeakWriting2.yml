@@ -1,0 +1,14 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: existence
+message: "Words like '%s' make your writing weaker."
+link: https://www.vultr.com/docs/vultr-docs-style-guide#Write_in_Second_Person
+level: warning
+ignorecase: true
+tokens:
+  - you can
+  - quite
+  - very
+  - extremely
