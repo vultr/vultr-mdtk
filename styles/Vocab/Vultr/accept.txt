@@ -28,7 +28,6 @@ crontab
 Cyberduck
 Dashy
 datacenter
-distro
 doas
 docx
 Dokku
@@ -154,12 +153,12 @@ Trello
 (UFW|ufw)
 (U|u)mami
 (U|u)ncomment
-uncheck
-unencrypted
+(U|u)ncheck
+(U|u)nencrypted
 [U|u]ncomparables?
-unselect
-unserializes?
-untrusted
+(U|u)nselect
+(U|u)nserializes?
+(U|u)ntrusted
 Validator
 venv
 Vtiger
@@ -171,7 +170,6 @@ webroot
 Webpack
 Webuzo
 Wekan
-wifi
 Winlogbeat
 WireGuard
 WordPress

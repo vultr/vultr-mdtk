@@ -9,9 +9,9 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: existence
-message: "Please avoid using '%s' in the link text. Use meaningful text for links, which improves accessibility and optimizes search results."
+message: "Avoid '%s' in the link text. Use meaningful links to improve accessibility and optimize search results."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-level: warning
+level: error
 scope: link
 ignorecase: true
 tokens:
