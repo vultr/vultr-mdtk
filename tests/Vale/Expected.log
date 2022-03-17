@@ -1,0 +1,193 @@
+Vale.Repetition.md:7:21:Vale.Repetition:'jumped' is repeated!
+Vultr.Acronyms.md:7:5:Vultr.Acronyms:Please define acronyms like 'OED' before use. For example: "Deploy your Virtual Private Server (VPS) instance at Vultr."
+Vultr.AvoidIdoms.md:7:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'in a jiffy.'
+Vultr.AvoidIdoms.md:8:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'should you wish.'
+Vultr.AvoidIdoms.md:9:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'first and foremost.'
+Vultr.AvoidIdoms.md:10:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'for all intents and purposes.'
+Vultr.AvoidIdoms.md:11:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'for the most part.'
+Vultr.AvoidIdoms.md:12:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'for the purpose of.'
+Vultr.AvoidIdoms.md:13:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'have a tendency to.'
+Vultr.AvoidIdoms.md:14:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'in a manner of speaking.'
+Vultr.AvoidIdoms.md:15:1:Vultr.AvoidIdoms:Vultr serves an international audience that may be confused by 'in a very real sense.'
+Vultr.AvoidIdoms.md:15:6:Vultr.WeakWriting2:Words like 'very' make your writing weaker.
+Vultr.Because.md:7:20:Vultr.Because:Please verify that you've used 'since' to refer to time and 'because' for the reason. For example, "It's been an hour since he left, because he had a flat tire."
+Vultr.British.md:7:45:Vultr.British:Use the US spelling 'behavior' instead of the British 'behaviour.'
+Vultr.CurrentStatus.md:7:23:Vultr.CurrentStatus:Avoid words like 'currently' that imply future changes.
+Vultr.DateMidnight.md:7:24:Vultr.DateMidnight:Use 'midnight' or 'noon.'
+Vultr.DateMidnight.md:8:24:Vultr.DateMidnight:Use 'midnight' or 'noon.'
+Vultr.DateMidnight.md:9:24:Vultr.DateMidnight:Use 'midnight' or 'noon.'
+Vultr.DateMidnight.md:10:24:Vultr.DateMidnight:Use 'midnight' or 'noon.'
+Vultr.DateMidnight.md:11:24:Vultr.DateMidnight:Use 'midnight' or 'noon.'
+Vultr.DateMidnight.md:12:24:Vultr.DateMidnight:Use 'midnight' or 'noon.'
+Vultr.DateRedundancy.md:7:27:Vultr.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+Vultr.DateRedundancy.md:8:27:Vultr.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+Vultr.DateRedundancy.md:9:26:Vultr.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+Vultr.DateRedundancy.md:10:27:Vultr.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+Vultr.Ellipses.md:7:11:Vultr.Ellipses:Ellipsis are seldom used in documentation.
+Vultr.Exclamation.md:7:47:Vultr.Exclamation:Please do not use exclamation points.
+Vultr.FirstNext.md:7:1:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:7:74:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:9:1:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:9:1:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.FirstNext.md:9:52:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.FirstNext.md:9:93:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.FirstNext.md:9:112:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:9:115:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.FirstNext.md:11:1:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:11:56:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:13:1:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:13:56:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:15:1:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:15:56:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:17:11:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.FirstNext.md:17:46:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:17:49:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.FirstNext.md:17:77:Vultr.FirstNext:This looks like a sequence of steps. Please use numbered lists when possible.
+Vultr.FirstNext.md:17:80:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.FirstPerson.md:7:1:Vultr.FirstPerson:Please avoid first-person pronouns such as 'I ' unless writing FAQ questions.
+Vultr.FirstPerson.md:7:46:Vultr.FirstPerson:Please avoid first-person pronouns such as 'my' unless writing FAQ questions.
+Vultr.FirstPerson.md:11:8:Vultr.FirstPerson:Please avoid first-person pronouns such as ' I ' unless writing FAQ questions.
+Vultr.FirstPerson.md:11:43:Vultr.FirstPerson:Please avoid first-person pronouns such as 'My' unless writing FAQ questions.
+Vultr.FirstPerson.md:13:6:Vultr.WeakWriting2:Words like 'you can' make your writing weaker.
+Vultr.FirstPerson.md:13:20:Vultr.FutureTense:Be cautious with future tense phrases like 'will still.'
+Vultr.FutureTense.md:7:12:Vultr.FutureTense:Be cautious with future tense phrases like 'will finish.'
+Vultr.Gender.md:7:1:Vultr.Gender:Consider using 'they' instead of 'He.'
+Vultr.Gender.md:8:16:Vultr.Gender:Consider using 'their' instead of 'him.'
+Vultr.Gender.md:9:21:Vultr.Gender:Consider using 'theirs' instead of 'his.'
+Vultr.Gender.md:11:1:Vultr.Gender:Consider using 'they' instead of 'She.'
+Vultr.Gender.md:12:16:Vultr.Gender:Consider using 'their' instead of 'her.'
+Vultr.Gender.md:13:21:Vultr.Gender:Consider using 'theirs' instead of 'hers.'
+Vultr.HeadingPunctuation.md:5:34:Vultr.HeadingPunctuation:Please don't use punctuation in headings unless writing FAQ questions.
+Vultr.HeadingPunctuation.md:13:28:Vultr.Exclamation:Please do not use exclamation points.
+Vultr.Headings.md:7:4:Vultr.HeadingsH2:Heading level two should use title case. Vultr uses the Chicago Manual of Style.
+Vultr.Headings.md:11:5:Vultr.HeadingsH3:Heading level three should use title case. Vultr uses the Chicago Manual of Style.
+Vultr.Inclusive.md:7:16:Vultr.Passive:In most cases, documentation should use active voice. 'is whitelisted' looks like passive voice.
+Vultr.Inclusive.md:7:19:Vultr.Inclusive:Please consider using 'allow' or 'allowlist' instead of 'whitelisted.'
+Vultr.Inclusive.md:8:5:Vultr.Inclusive:Please consider using 'primary' or 'main' instead of 'master.'
+Vultr.Inclusive.md:8:35:Vultr.Inclusive:Please consider using 'secondary', 'replica', or 'subordinate' instead of 'slave.'
+Vultr.LatinAbbreviations.md:7:35:Vultr.LatinAbbreviations:Please use 'for example' instead of 'e.g.', or consider rewriting the sentence.
+Vultr.LatinAbbreviations.md:7:43:Vultr.LatinAbbreviations:Please use 'that is' instead of 'i.e.', or consider rewriting the sentence.
+Vultr.LatinAbbreviations.md:7:76:Vultr.LatinAbbreviations:Please use 'and so on' instead of 'etc.', or consider rewriting the sentence.
+Vultr.Lets.md:7:1:Vultr.Lets:Please avoid using 'Let's', unless referring to Let's Encrypt.
+Vultr.Lets.md:8:1:Vultr.Lets:Please avoid using 'Let's', unless referring to Let's Encrypt.
+Vultr.Lets.md:9:1:Vultr.Acronyms:Please define acronyms like 'PCRE' before use. For example: "Deploy your Virtual Private Server (VPS) instance at Vultr."
+Vultr.Lets.md:9:6:Vultr.Lets:Please avoid using 'Let's', unless referring to Let's Encrypt.
+Vultr.Lets.md:9:12:Vultr.We:Be cautious with first person plural pronouns like 'us.' Make sure it refers to Vultr, not the reader or author.
+Vultr.Lets.md:10:4:Vultr.Lets:Please avoid using 'Let's', unless referring to Let's Encrypt.
+Vultr.MarkdownBackticks.md:9:3:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:9:11:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:10:3:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:10:16:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:11:3:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:11:5:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:11:19:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:11:21:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:15:3:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:15:12:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:16:3:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:16:16:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:17:3:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:17:18:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:19:1:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:22:1:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBackticks.md:22:3:Vultr.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+Vultr.MarkdownBullet.md:7:1:Vultr.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+Vultr.MarkdownBullet.md:8:1:Vultr.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+Vultr.MarkdownBullet.md:9:1:Vultr.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+Vultr.MarkdownBullet.md:10:1:Vultr.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+Vultr.MarkdownBullet.md:11:1:Vultr.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+Vultr.MarkdownTabs.md:7:1:Vultr.MarkdownTabs:Indent code by four spaces. Do not use tabs.
+Vultr.MeaningfulLinks.md:7:36:Vultr.MeaningfulLinks:Avoid 'here' in the link text. Use meaningful links to improve accessibility and optimize search results.
+Vultr.MeaningfulLinks.md:8:39:Vultr.MeaningfulLinks:Avoid 'this page' in the link text. Use meaningful links to improve accessibility and optimize search results.
+Vultr.Negative.md:7:26:Vultr.Negative:Please use an en dash, not a hyphen, for negative numbers.
+Vultr.ObjectStorage.md:7:64:Vultr.ObjectStorage:Do not use direct Object Storage links.
+Vultr.Once.md:7:1:Vultr.Once:Please verify that 'once' refers to counting, as in "Run the job once...", and use 'after' if describing a sequence of events.
+Vultr.Ordinal.md:7:1:Vultr.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentnece.
+Vultr.Oxymorons.md:7:7:Vultr.Oxymorons:Please avoid oxymorons such as 'generally always.'
+Vultr.Parentheses.md:7:23:Vultr.Parentheses:It looks like there should be a space here.
+Vultr.Passive.md:7:11:Vultr.Passive:In most cases, documentation should use active voice. 'was logged' looks like passive voice.
+Vultr.Percentages.md:7:6:Vultr.Percentages:Use a numeral plus the units. For example, use '20 percent' instead of 'twenty percent.'
+Vultr.Periods.md:7:32:Vultr.Periods:Acronyms or initialisms such as 'R.A.M.' should not have periods.
+Vultr.Plurals.md:7:12:Vultr.Plurals:Don't use plurals in parentheses like 'server(s).'
+Vultr.RangeSpace.md:7:12:Vultr.RangeSpace:If space is an issue in a range of numbers, such as in tables, use an en dash instead of a hyphen.
+Vultr.RangeSpace.md:13:12:Vultr.Ranges:Unless space is an issue, such as in tables, use 'from' and 'through' to describe a range of numbers. Example: "from 20 through 30".
+Vultr.Ranges.md:7:12:Vultr.Ranges:Unless space is an issue, such as in tables, use 'from' and 'through' to describe a range of numbers. Example: "from 20 through 30".
+Vultr.Semicolon.md:7:68:Vultr.Semicolon:Sentences that contain semicolons are often complex. Try to simplify the sentence by breaking it into multiple sentences or a list.
+Vultr.SentenceLength.md:7:1:Vultr.SentenceLength:Consider using sentences of 40 words or less to improve readability.
+Vultr.SentenceSpacing.md:7:33:Vultr.SentenceSpacing:'d.I' must contain one and only one space.
+Vultr.SentenceSpacing.md:7:114:Vultr.SentenceSpacing:'. T' must contain one and only one space.
+Vultr.So.md:7:1:Vultr.So:Please avoid 'So,' at the beginning of a sentence.
+Vultr.SubstitutionComplex.md:7:1:Vultr.SubstitutionComplex:Consider using 'realized' instead of 'came to a realization.'
+Vultr.SubstitutionComplex.md:8:1:Vultr.SubstitutionComplex:Consider using 'ended abruptly' instead of 'came to an abrupt end.'
+Vultr.SubstitutionComplex.md:9:1:Vultr.SubstitutionComplex:Consider using 'evaluate' instead of 'carry out an evaluation of.'
+Vultr.SubstitutionWarning.md:7:14:Vultr.SubstitutionWarning:Please consider using 'distribution' instead of 'distro.'
+Vultr.SubstitutionWarning.md:7:14:Vale.Spelling:Did you really mean 'distro'?
+Vultr.SubstitutionWarning.md:8:9:Vultr.SubstitutionWarning:Please consider using 'information' instead of 'info.'
+Vultr.SubstitutionWarning.md:9:11:Vultr.SubstitutionWarning:Please consider using 'repository' instead of 'repo.'
+Vultr.SubstitutionWarning.md:9:11:Vale.Spelling:Did you really mean 'repo'?
+Vultr.Substitutions.md:7:1:Vultr.Substitutions:Vultr prefers 'email' instead of 'e-mail.'
+Vultr.Substitutions.md:8:1:Vultr.Substitutions:Vultr prefers 'email' instead of 'Email.'
+Vultr.Substitutions.md:9:1:Vultr.Substitutions:Vultr prefers 'email' instead of 'E-mail.'
+Vultr.Substitutions.md:10:1:Vultr.Substitutions:Vultr prefers 'path' instead of 'file path.'
+Vultr.Substitutions.md:11:1:Vultr.Substitutions:Vultr prefers 'path' instead of 'path name.'
+Vultr.Substitutions.md:12:1:Vultr.Substitutions:Vultr prefers 'stop', 'exit', 'cancel', or 'end' instead of 'kill.'
+Vultr.Substitutions.md:13:1:Vultr.Substitutions:Vultr prefers 'stop', 'exit', 'cancel', or 'end' instead of 'terminate.'
+Vultr.Substitutions.md:14:1:Vultr.Substitutions:Vultr prefers 'stop', 'exit', 'cancel', or 'end' instead of 'abort.'
+Vultr.Substitutions.md:15:1:Vultr.Substitutions:Vultr prefers 'OK' instead of 'ok.'
+Vultr.Substitutions.md:16:1:Vultr.Substitutions:Vultr prefers 'Wi-Fi' instead of 'WiFi.'
+Vultr.Substitutions.md:17:1:Vultr.Substitutions:Vultr prefers 'Wi-Fi' instead of 'wifi.'
+Vultr.Substitutions.md:17:1:Vale.Spelling:Did you really mean 'wifi'?
+Vultr.Substitutions.md:21:1:Vultr.Substitutions:Vultr prefers 'administrator' instead of 'admin.'
+Vultr.Substitutions.md:22:1:Vultr.Substitutions:Vultr prefers 'AJAX' instead of 'Ajax.'
+Vultr.Substitutions.md:23:1:Vultr.Substitutions:Vultr prefers 'about' instead of 'approx.'
+Vultr.Substitutions.md:24:1:Vultr.Substitutions:Vultr prefers 'authentication' instead of 'authN.'
+Vultr.Substitutions.md:25:1:Vultr.Substitutions:Vultr prefers 'authorization' instead of 'authZ.'
+Vultr.Substitutions.md:27:1:Vultr.Substitutions:Vultr prefers 'mobile data' instead of 'cellular data.'
+Vultr.Substitutions.md:28:1:Vultr.Substitutions:Vultr prefers 'mobile network' instead of 'cellular network.'
+Vultr.Substitutions.md:29:1:Vultr.Substitutions:Vultr prefers 'checkbox' instead of 'check box.'
+Vultr.Substitutions.md:30:1:Vultr.Substitutions:Vultr prefers 'cloud compute instance' instead of 'cloud computer.'
+Vultr.Substitutions.md:33:1:Vultr.Substitutions:Vultr prefers 'location' instead of 'datacenters.'
+Vultr.Substitutions.md:34:1:Vultr.Substitutions:Vultr prefers 'filename' instead of 'file name.'
+Vultr.Substitutions.md:36:1:Vultr.Substitutions:Vultr prefers 'unavailable' instead of 'grayed-out.'
+Vultr.Substitutions.md:37:1:Vultr.Substitutions:Vultr prefers 'HTTPS' instead of 'HTTPs.'
+Vultr.Substitutions.md:38:1:Vultr.Substitutions:Vultr prefers 'import' or 'load' instead of 'ingest.'
+Vultr.Substitutions.md:39:1:Vultr.Substitutions:Vultr prefers 'Kubernetes' instead of 'k8s.'
+Vultr.Substitutions.md:41:1:Vultr.Substitutions:Vultr prefers 'regular expression' instead of 'regex.'
+Vultr.Substitutions.md:42:1:Vultr.Substitutions:Vultr prefers 'sign in to' instead of 'sign into.'
+Vultr.Substitutions.md:43:1:Vultr.Substitutions:Vultr prefers 'sync' instead of 'synch.'
+Vultr.Substitutions.md:45:1:Vultr.Substitutions:Vultr prefers 'device' instead of 'tablet.'
+Vultr.Substitutions.md:46:1:Vultr.Substitutions:Vultr prefers 'URL' instead of 'url.'
+Vultr.Substitutions.md:46:1:Vale.Spelling:Did you really mean 'url'?
+Vultr.Substitutions.md:47:1:Vultr.Substitutions:Vultr prefers 'versus' instead of 'vs.'
+Vultr.Substitutions.md:49:1:Vultr.Substitutions:Vultr prefers 'web server' instead of 'webserver.'
+Vultr.Substitutions.md:49:1:Vale.Spelling:Did you really mean 'webserver'?
+Vultr.Substitutions.md:50:1:Vultr.Substitutions:Vultr prefers 'web' instead of 'World Wide Web.'
+Vultr.Substitutions.md:51:1:Vultr.Substitutions:Vultr prefers 'X.509' instead of 'x509.'
+Vultr.TimeFormat.md:7:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeFormat.md:8:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeFormat.md:9:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeFormat.md:10:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeFormat.md:11:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeFormat.md:12:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeFormat.md:13:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeFormat.md:14:16:Vultr.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+Vultr.TimeRange.md:7:25:Vultr.TimeRange:Use 'to' instead of a dash in time ranges. For example: "The schedule runs from 10:00 a.m. to 2:00 p.m. each day."
+Vultr.TimeRange.md:8:25:Vultr.TimeRange:Use 'to' instead of a dash in time ranges. For example: "The schedule runs from 10:00 a.m. to 2:00 p.m. each day."
+Vultr.URLFormat.md:7:22:Vultr.URLFormat:Use 'a URL' instead of 'an URL.'
+Vultr.URLFormat.md:8:26:Vultr.URLFormat:Use 'URL of' instead of 'URL for.'
+Vultr.Uncomparables.md:7:6:Vultr.Uncomparables:'increasingly impossible' is not comparable. Please rephrase this sentence.
+Vultr.Uncomparables.md:9:9:Vultr.Uncomparables:'increasingly true' is not comparable. Please rephrase this sentence.
+Vultr.Uncomparables.md:9:36:Vultr.Uncomparables:'increasingly false' is not comparable. Please rephrase this sentence.
+Vultr.We.md:7:1:Vultr.We:Be cautious with first person plural pronouns like 'We.' Make sure it refers to Vultr, not the reader or author.
+Vultr.We.md:8:1:Vultr.We:Be cautious with first person plural pronouns like 'We've.' Make sure it refers to Vultr, not the reader or author.
+Vultr.We.md:9:1:Vultr.We:Be cautious with first person plural pronouns like 'We're.' Make sure it refers to Vultr, not the reader or author.
+Vultr.We.md:10:1:Vultr.We:Be cautious with first person plural pronouns like 'Our.' Make sure it refers to Vultr, not the reader or author.
+Vultr.We.md:10:43:Vultr.We:Be cautious with first person plural pronouns like 'ours.' Make sure it refers to Vultr, not the reader or author.
+Vultr.We.md:11:26:Vultr.We:Be cautious with first person plural pronouns like 'us.' Make sure it refers to Vultr, not the reader or author.
+Vultr.WeakWriting.md:7:1:Vultr.WeakWriting:Sentences that begin with 'There is' tend to be wordy. Consider rephrasing this sentence more concisely.
+Vultr.WeakWriting.md:7:58:Vultr.WeakWriting:Sentences that begin with 'There are' tend to be wordy. Consider rephrasing this sentence more concisely.
+Vultr.WeakWriting.md:7:95:Vultr.WeakWriting:Sentences that begin with 'It is' tend to be wordy. Consider rephrasing this sentence more concisely.
+Vultr.WeakWriting.md:9:1:Vultr.WeakWriting2:Words like 'You can' make your writing weaker.
+Vultr.WeakWriting.md:9:16:Vultr.WeakWriting2:Words like 'quite' make your writing weaker.
+Vultr.WeakWriting.md:9:47:Vultr.WeakWriting2:Words like 'very' make your writing weaker.
+Vultr.WeakWriting.md:9:63:Vultr.WeakWriting2:Words like 'extremely' make your writing weaker.
