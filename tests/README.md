@@ -2,7 +2,7 @@
 
 To test style rules:
 
-    $ cd tests
+    $ cd Vale
     $ ./test.sh
 
 See more documentation in the header of `test.sh`.
