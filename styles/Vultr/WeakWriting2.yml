@@ -8,7 +8,6 @@ link: https://www.vultr.com/docs/vultr-docs-style-guide#Write_in_Second_Person
 level: warning
 ignorecase: true
 tokens:
-  - you can
   - quite
   - very
   - extremely
