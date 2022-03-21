@@ -2,6 +2,12 @@
 # Portions of this toolkit are modifications based on work created and shared by GitLab and 
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
+#
+#
+# The exceptions to this rule stopped working for some reason. The rule is disabled for now until we discover a fix.
+#
+#
+#
 extends: conditional
 message: "Please define acronyms like '%s' before use. For example: \"Deploy your Virtual Private Server (VPS) instance at Vultr.\""
 link: https://www.vultr.com/docs/vultr-docs-style-guide

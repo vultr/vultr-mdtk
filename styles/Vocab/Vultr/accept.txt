@@ -9,6 +9,7 @@ Asana
 Auditbeat
 autoupdate
 autoconfiguration
+awscli
 Bitwarden
 [B|b]lockquotes?
 Bludit
@@ -117,6 +118,8 @@ Plesk
 Portainer
 Postgres
 Prisma
+[P|p]roxying
+[P|p]roxied
 proselint
 Rbenv
 Redhat
