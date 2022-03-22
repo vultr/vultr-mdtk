@@ -7,7 +7,7 @@
 # much as possible.
 extends: existence
 message: "Be cautious with future tense phrases like '%s.'"
-link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Present_Tense
+link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: suggestion
 ignorecase: true
 raw:

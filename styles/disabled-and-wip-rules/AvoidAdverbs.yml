@@ -8,7 +8,7 @@
 # https://github.com/errata-ai/write-good/blob/master/LICENSE
 extends: existence
 message: "Consider removing '%s.'"
-link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Strong_Action_Statements
+link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: true
 action:

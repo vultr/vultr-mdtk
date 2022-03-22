@@ -16,3 +16,7 @@ ignorecase: true
 tokens:
   - currently
   - current
+  - as of writing
+  - at this time
+  - as of this writing
+  - at the time of this

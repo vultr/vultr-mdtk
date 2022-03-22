@@ -8,7 +8,7 @@
 #
 extends: existence
 message: "Vultr serves an international audience that may be confused by '%s.'"
-link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Simple_Language
+link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: true
 tokens:
