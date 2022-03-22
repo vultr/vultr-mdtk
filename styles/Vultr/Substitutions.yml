@@ -19,7 +19,6 @@ swap:
   'un(?:check|select)': clear
   # above: preceding|before
   # account name: username
-  admin: administrator
   Ajax: AJAX
   approx\.?: about
   authN: authentication

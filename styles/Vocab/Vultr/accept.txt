@@ -6,6 +6,7 @@ allowlist
 Ansible
 API
 Asana
+[A|a]uditable
 Auditbeat
 autoupdate
 autoconfiguration
@@ -60,6 +61,7 @@ inodes
 IP
 Joomla
 Journalbeat
+[json|JSON]
 Kanban
 keypair
 Kibana
@@ -69,6 +71,7 @@ Kubectl
 LAMP
 Laravel
 [L|l]eaderboard
+[L|l]ibcurl
 Linux
 Livepatch
 Let's Encrypt
@@ -142,11 +145,14 @@ Supabase
 Symfony
 systemd
 tablename
+(TCP|tcp)
+td
 Terraria
 Termius
 Textpattern
-(TCP|tcp)
 timeframe
+thead
+th
 [T|t]mux
 Traccar
 transcode

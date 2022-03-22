@@ -4,7 +4,7 @@
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: substitution
 message: "Consider using %s instead of '%s.'"
-link: https://www.vultr.com/docs/vultr-docs-style-guide#Use_Simple_Language
+link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: true
 action:
@@ -59,6 +59,7 @@ swap:
   any and all: all
   apparent: clear|plain
   approximate(?:ly)?: about
+  are able to: can
   are in agreement: agree
   as a matter of fact: in fact
   as a means of: to
@@ -132,7 +133,7 @@ swap:
   during the time that: while
   each and every: all
   economical: inexpensive
-  eliminate: end
+  # eliminate: end
   elucidate: explain
   emergency situation: emergency
   employ: use
@@ -184,6 +185,7 @@ swap:
   in some instances: sometimes
   in spite of the fact that: although
   in spite of: despite
+  in terms of: about|as
   in the (?:very)? near future: soon
   in the event that: if
   in the near future: soon
@@ -217,6 +219,7 @@ swap:
   objective: aim|goal
   obligate: bind|compel
   of major importance: important
+  once again: again
   optimum: best|most
   perform an assessment of: assess
   permit: let
@@ -232,7 +235,7 @@ swap:
   prior to: before
   prioritize: rank
   procure: buy
-  provide: give|offer
+  provide: give|offer|enter
   purchase: buy
   readily apparent: apparent
   relocate: move
@@ -249,6 +252,7 @@ swap:
   sufficient: enough
   take action: act
   take into account: consider
+  the fact that: because
   the question as to whether: whether
   there is no doubt but that: doubtless
   this day and age: this age

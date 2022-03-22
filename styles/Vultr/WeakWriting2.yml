@@ -4,10 +4,14 @@
 # https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
 extends: existence
 message: "Words like '%s' make your writing weaker."
-link: https://www.vultr.com/docs/vultr-docs-style-guide#Write_in_Second_Person
+link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: true
 tokens:
   - quite
   - very
   - extremely
+  - needless to say
+  - it is important to note that
+  - in actual fact
+  - inasmuch as

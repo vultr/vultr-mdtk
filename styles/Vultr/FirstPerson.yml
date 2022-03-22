@@ -4,7 +4,7 @@
 # https://developers.google.com/terms/site-policies
 extends: existence
 message: "Please avoid first-person pronouns such as '%s' unless writing FAQ questions."
-link: https://www.vultr.com/docs/vultr-docs-style-guide#Write_in_Second_Person
+link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: warning
 ignorecase: true
 nonword: true

@@ -4,6 +4,8 @@
 #
 # Do not use direct Object Storage Links.
 #
+# TODO: Make this rule more selective so that it 
+#
 extends: existence
 message: "Do not use direct Object Storage links."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
@@ -11,4 +13,4 @@ level: error
 nonword: true
 scope: raw
 tokens:
-  - 'vultrobjects.com'
+  - '//ewr1.vultrobjects.com/'

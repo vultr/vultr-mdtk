@@ -8,4 +8,4 @@ link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: false
 raw:
-  - '(?:[;-]\s)so[\s,]|\bSo[\s,]'
+  - '(?:[;-]\s)now[\s,]|\bNow[\s,]'
