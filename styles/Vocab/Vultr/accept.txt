@@ -24,6 +24,7 @@ Chatwoot
 Certbot
 Chevereto
 [C|c]onfig
+Crictl
 Cron
 crontab
 [C|c]trl
@@ -67,6 +68,7 @@ keypair
 Kibana
 Koha
 Konnectivity
+Kube
 Kubectl
 LAMP
 Laravel

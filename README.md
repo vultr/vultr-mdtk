@@ -18,16 +18,16 @@ The Vultr Docs editors update MDTK frequently. [Vultr Docs](https://www.vultr.co
 1. Open `vultr-mdtk.code-workspace` with Visual Studio Code. This workspace configures the correct options for Vale and the Markdown extensions. 
 1. Edit your Markdown files in the `Markdown` folder. *Errors* are underlined in red, *Warnings* in yellow, and *Suggestions* in blue. You can hover over the alerts for pop-up help.
 
-    ![Popup Help](Markdown/media/Popup%20Help.png)
+    ![Popup Help](templates/media/Popup%20Help.png)
 
 1. Open the *Problems* tab to view the complete list of errors, warnings, and suggestions.
 
-    ![VSCode Example](Markdown/media/VSCode%20Example.png)
+    ![VSCode Example](templates/media/VSCode%20Example.png)
 
 ## Key Project Files and Folders
 
-* `Markdown/` : [Working folder](https://github.com/vultr/vultr-mdtk/tree/main/Markdown)
-* `Markdown/Vultr Docs Template.md` : [A template for Vultr Docs authors](https://github.com/vultr/vultr-mdtk/tree/main/Markdown/Vultr%20Docs%20Template.md)
-* `styles/` : [Vale style rules](https://github.com/vultr/vultr-mdtk/tree/main/styles)
-* `.vale.ini` : [Vale configuration file](https://github.com/vultr/vultr-mdtk/tree/main/.vale.ini)
-* `vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](https://github.com/vultr/vultr-mdtk/tree/main/vultr-mdtk.code-workspace)
+* `Markdown/` : [Working folder](/Markdown)
+* `templates/` : [Templates for Vultr Docs authors](/templates)
+* `styles/` : [Vale style rules](/styles)
+* `.vale.ini` : [Vale configuration file](.vale.ini)
+* `vultr-mdtk.code-workspace` : [Workspace for Visual Studio Code](vultr-mdtk.code-workspace)
