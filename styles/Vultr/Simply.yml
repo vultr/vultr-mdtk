@@ -5,10 +5,13 @@
 # 'Simply' is subjective and alienating.
 #
 extends: existence
-message: "Please avoid the word \"simply.\""
+message: "Please avoid '%s'."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
 level: error
 ignorecase: true
 tokens:
+  - simple to use
+  - easy to use
   - simply
   - simple
+  - easy
