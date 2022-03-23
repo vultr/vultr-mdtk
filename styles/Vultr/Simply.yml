@@ -11,3 +11,4 @@ level: error
 ignorecase: true
 tokens:
   - simply
+  - simple
