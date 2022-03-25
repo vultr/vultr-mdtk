@@ -183,6 +183,7 @@ Webuzo
 Wekan
 Winlogbeat
 WireGuard
+wget
 WordPress
 Xfce
 Xrdp
