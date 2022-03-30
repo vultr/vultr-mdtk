@@ -47,6 +47,7 @@ swap:
   performant: efficient|high-performance
   regex: regular expression
   sign into: sign in to
+  spin up: deploy
   synch: sync
   tablename: table name
   tablet: device

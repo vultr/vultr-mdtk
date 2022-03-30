@@ -25,8 +25,8 @@ Certbot
 Chevereto
 [C|c]onfig
 Crictl
-Cron
-crontab
+[C|c]ron
+[C|c]rontab
 [C|c]trl
 Cyberduck
 Dashy
@@ -130,7 +130,7 @@ Rbenv
 Redhat
 Remmina
 RHEL
-Rsync
+[R|r]sync
 ruleset
 Searx
 serverless
