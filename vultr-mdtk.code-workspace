@@ -9,8 +9,10 @@
         "markdown.extension.orderedList.marker": "one",
         "markdown.extension.toc.unorderedList.marker": "*",
         "markdownlint.config": {
+
+            "MD007": { "indent": 4},
             "MD013": false,
-            "MD014": false,  
+            "MD014": false,
             "MD026": false,
             "MD040": false,
             "MD041": false

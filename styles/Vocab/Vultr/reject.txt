@@ -1,6 +1,8 @@
+[D|d]igital [O|o]cean
 [D|d]igital[O|o]cean
 [L|l]inode
 (AWS|aws|[Aa]mazon\s*[Ww]eb\s*[Ss]ervices)
 (GCP|[Gg]oogle\s*[Cc]loud\s*[Pp]latform)
 ([Aa]zure|[Mm]icrosoft\s*[Aa]zure)
-
+de facto
+ad hoc
