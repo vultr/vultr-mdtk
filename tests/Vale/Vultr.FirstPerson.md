@@ -10,4 +10,4 @@ I wrote this guide to explain how to install my server.
 
 ### Can I Ignore First Person Language in My FAQs?
 
-Yes, you can. Vale will still warn, but humans are smarter.
+Yes, you can. Vale still warns you, but humans are smarter.

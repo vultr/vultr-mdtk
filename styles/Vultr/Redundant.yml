@@ -1,0 +1,15 @@
+---
+# Portions of this toolkit are modifications based
+# on the write-good style rules and used according
+# to terms described in the MIT license.
+# https://github.com/errata-ai/write-good/blob/master/LICENSE
+#
+# Avoid Idioms, Clichés, Jargon, Slang, and Euphemisms
+#
+extends: existence
+message: "'%s' may be redundant. Consider removing this phrase."
+link: https://www.vultr.com/docs/vultr-docs-style-guide
+level: warning
+ignorecase: true
+tokens:
+  - you will need to

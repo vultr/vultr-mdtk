@@ -27,7 +27,10 @@ swap:
   cellular data: mobile data
   cellular network: mobile network
   check box: checkbox
-  click on: click|click in
+  click in: select
+  clicking in: selecting
+  click on: click
+  clicking on: clicking
   cloud computer: cloud compute instance
   config: configuration
   ## dashboard: Customer Portal

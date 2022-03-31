@@ -2,9 +2,13 @@
 
     Vultr.Ranges
 
-## Warning Expected
+### En Dash Warning
 
 Edit lines 20–30 to configure Nginx.  
+
+### Hyphen Warning
+
+Edit lines 20-30 to configure Nginx.  
 
 ## Correct
 
