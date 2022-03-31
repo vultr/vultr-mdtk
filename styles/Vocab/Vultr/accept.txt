@@ -4,7 +4,7 @@ Ajenti
 Akaunting
 allowlist
 Ansible
-[API|api]
+(API|api)
 Asana
 [A|a]uditable
 Auditbeat
@@ -79,8 +79,8 @@ Livepatch
 Let's Encrypt
 Logstash
 loopback
-[M|m]aria[D|d][B|b]
-[M|m]y[S|s][Q|q][L|l]
+(MariaDB|mariadb)
+(MySQL|mysql)
 Magento
 Mahara
 markdownlint
@@ -99,8 +99,8 @@ multitenant
 Nagios
 [N|n]amespace
 Nano
-([N|n]gin[X|x]|NGINX)
-(nodejs|Node.js|NodeJS)
+(Nginx|NGINX|nginx)
+(NodeJS|nodejs|Node.js)
 (NPM|npm)
 Ntop
 Ntopng

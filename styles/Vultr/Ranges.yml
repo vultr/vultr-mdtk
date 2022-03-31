@@ -9,3 +9,4 @@ level: warning
 nonword: true
 tokens:
   - '\b\d+\s?[–]\s?\d+\b'
+  - '\b\d+\s?[-]\s?\d+\b'
