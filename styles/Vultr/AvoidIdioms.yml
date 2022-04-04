@@ -130,6 +130,7 @@ tokens:
   - bottomless pit
   - boys will be boys
   - bright and early
+  - brimming with
   - brings home the bacon
   - broad across the beam
   - broken record
@@ -378,7 +379,7 @@ tokens:
   - in my (?:honest|humble)? opinion
   - in regard to
   - in terms of
-  - in the case of
+#  - in the case of
   - in the final analysis
   - in the gutter
   - in the last analysis

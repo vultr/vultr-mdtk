@@ -1,6 +1,6 @@
 # Test Case
 
-    Vultr.AvoidIdoms
+    Vultr.AvoidIdioms
 
 ## Warning
 
