@@ -23,6 +23,7 @@ exceptions:
   - ARN
   - ASCII
   - AWS
+  - BSON
   - BSD
   - CLI
   - CMD

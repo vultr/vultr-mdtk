@@ -7,7 +7,7 @@
 extends: existence
 message: "Please avoid '%s'."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-level: error
+level: suggestion
 ignorecase: true
 tokens:
   - simple to use
@@ -15,3 +15,4 @@ tokens:
   - simply
   - simple
   - easy
+  - easier

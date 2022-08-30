@@ -1,4 +1,5 @@
 Abante
+Actix
 [A|a]gentless
 Ajenti
 Akaunting
@@ -18,10 +19,11 @@ boolean
 bootable
 Bukkit
 Caddy
-(Calibre|calibre)
+[C|c]alibre
 CapRover
-Chatwoot
 Certbot
+Chatwoot
+Checkmk
 Chevereto
 [C|c]onfig
 Crictl
@@ -79,6 +81,7 @@ Livepatch
 Let's Encrypt
 Logstash
 loopback
+Lua
 (MariaDB|mariadb)
 (MySQL|mysql)
 Magento
@@ -96,6 +99,7 @@ Morty
 Mosquitto
 Multicraft
 multitenant
+[M|m]utex
 Nagios
 [N|n]amespace
 Nano
@@ -162,14 +166,14 @@ transpiling
 Trello
 (UDP|udp)
 (UFW|ufw)
-(U|u)mami
-(U|u)ncomment
-(U|u)ncheck
-(U|u)nencrypted
+[U|u]mami
+[U|u]ncomment
+[U|u]ncheck
+[U|u]nencrypted
 [U|u]ncomparables?
-(U|u)nselect
-(U|u)nserializes?
-(U|u)ntrusted
+[U|u]nselect
+[U|u]nserializes?
+[U|u]ntrusted
 Validator
 venv
 Vtiger
