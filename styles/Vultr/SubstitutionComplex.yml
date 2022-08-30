@@ -209,7 +209,7 @@ swap:
   methodology: method
   minimize: reduce
   mix together: mix
-  modify: change
+  # modify: change
   # monitor: check|watch
   necessitate: cause
   nevertheless: however|still
@@ -238,10 +238,10 @@ swap:
   prioritize: rank
   procure: buy
   provide: give|offer|enter
-  purchase: buy
+  # purchase: buy
   readily apparent: apparent
   relocate: move
-  similar to: like
+# similar to: like
   solicit: request
   some of the: some
   span across: span

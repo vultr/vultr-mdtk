@@ -3,9 +3,9 @@
 # https://creativecommons.org/licenses/by/4.0/
 #
 extends: capitalization
-message: "Heading level three should use title case. Vultr uses the Chicago Manual of Style."
+message: "Heading level three should use title case unless used as an FAQ question or similar. Vultr uses the Chicago Manual of Style."
 link: https://www.vultr.com/docs/vultr-docs-style-guide
-level: error
+level: suggestion
 scope: heading.h3
 match: $title
 style: Chicago
