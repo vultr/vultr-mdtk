@@ -1,6 +1,10 @@
 # Vultr Markdown Toolkit (MDTK)
 
-The Vultr Markdown Toolkit (MDTK) is a helpful aid for Vultr Docs authors. MDTK consists of Vale style rules, vocabulary, a recommended set of Visual Studio Code extensions, and a workspace file that sets the preferred defaults.
+The Vultr Markdown Toolkit has been discontinued. This repository is archived and no longer maintained.
+
+---
+
+(MDTK) is a helpful aid for Vultr Docs authors. MDTK consists of Vale style rules, vocabulary, a recommended set of Visual Studio Code extensions, and a workspace file that sets the preferred defaults.
 
 The Vultr Docs editors update MDTK frequently. [Vultr Docs](https://www.vultr.com/docs/) authors are encouraged to use MDTK to lint their articles before submission. MDTK can detect many [style guide](https://www.vultr.com/docs/vultr-docs-style-guide) issues and provides a good spell-check with a [curated list of industry terms](https://github.com/vultr/vultr-mdtk/blob/main/styles/Vocab/Vultr/accept.txt). However, MDTK is not a substitute for a human editor and does not perform complete grammar checking.
 
